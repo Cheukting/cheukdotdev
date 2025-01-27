@@ -28,7 +28,8 @@ def organize_md_files(directory="content/posts"):
             content = f.read()
         
         # Use regex to extract the image path from the front matter
-        image_match = re.search(r'image:\s*["\']?(.*?\.(jpg|png|jpeg|gif))["\']?', content, re.IGNORECASE)
+        image_match = re.search(r'image:\s*(["\']?(.*?\.(jpg|png|jpeg|gif))["\']?|[^"\']\S+\.(jpg|png|jpeg|gif))',
+                                content, re.IGNORECASE)
         if image_match:
             image_path = image_match.group(1)
             

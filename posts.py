@@ -1,4 +1,5 @@
 import os
+import pdb
 import re
 import shutil
 
@@ -31,10 +32,8 @@ def organize_md_files(directory="content/posts"):
         image_match = re.search(r'image:\s*(["\']?(.*?\.(jpg|png|jpeg|gif))["\']?|[^"\']\S+\.(jpg|png|jpeg|gif))',
                                 content, re.IGNORECASE)
         if image_match:
-            image_path = image_match.group(1)
-            # Prepend the directory of this Python file if the path is not absolute
-            if not os.path.isabs(image_path):
-                image_path = os.path.join(os.path.dirname(__file__), image_path)
+            image_path = image_match.group(1)[1:]
+
             # If the image path is valid, move the image to the new folder
             if os.path.isfile(image_path):
                 shutil.move(image_path, folder_path)

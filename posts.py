@@ -36,7 +36,10 @@ def organize_md_files(directory="content/posts"):
 
             # If the image path is valid, move the image to the new folder
             if os.path.isfile(image_path):
-                shutil.move(image_path, folder_path)
+                # Rename the image file by adding "feature_" to the beginning of the file name
+                new_image_name = "feature_" + os.path.basename(image_path)
+                new_image_path = os.path.join(folder_path, new_image_name)
+                shutil.move(image_path, new_image_path)
 
         # Move and rename the file
         old_file_path = os.path.join(directory, file)

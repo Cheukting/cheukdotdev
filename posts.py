@@ -2,6 +2,14 @@ import os
 import re
 import shutil
 
+
+def get_md_filenames(directory="content/posts"):
+    """
+    Scans the specified directory for markdown files (.md) and returns a list of their filenames.
+    """
+    return [file for file in os.listdir(directory) if file.endswith(".md")]
+
+
 def organize_md_files(directory="content/posts"):
     """
     Organizes .md files in the specified directory by creating a folder for each file

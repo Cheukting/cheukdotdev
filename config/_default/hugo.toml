@@ -41,6 +41,7 @@ enableEmoji = true
 [related]
   threshold = 0
   toLower = false
+  includeNewer = true
 
     [[related.indices]]
         name = "tags"

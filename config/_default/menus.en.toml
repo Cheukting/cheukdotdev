@@ -16,6 +16,11 @@
   weight = 10
 
 [[main]]
+  name = "Videos"
+  pageRef = "videos"
+  weight = 10
+
+[[main]]
   name = "Parent"
   weight = 20
 

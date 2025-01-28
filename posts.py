@@ -1,5 +1,4 @@
 import os
-import pdb
 import re
 import shutil
 
@@ -48,4 +47,18 @@ def organize_md_files(directory="content/posts"):
 
 
 # Organize markdown files in the directory
-organize_md_files()
+# organize_md_files()
+
+def rename_index_files(directory="content/posts"):
+    """
+    Renames all '_index.md' files to '_index.md' in the specified directory.
+    """
+    for root, dirs, files in os.walk(directory):
+        for file in files:
+            if file == "_index.md":
+                old_file_path = os.path.join(root, file)
+                new_file_path = os.path.join(root, "_index.md")
+                os.rename(old_file_path, new_file_path)
+
+# Rename '_index.md' files to '_index.md'
+rename_index_files()

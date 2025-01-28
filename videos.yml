@@ -1,0 +1,2602 @@
+- title: SciWork - Use Hypothesis, whether you like writing tests or not
+  vid: AefFxD3IG-o
+  tags:
+    - Testing
+    - Conference
+  description: |
+    I bet you like writing tests. But instead of the example-based tests that we normally write, have you heard of property-based testing? By using Hypothesis, instead of thinking about what data I should test it for, it will generate test data, including Numpy and Pandas objects, for you.
+  date: 2023-12-31
+  author: Cheuk Ting Ho
+
+- title: PyCon ES - Untangle Python Spaghetti
+  vid: vuQA9aQPs8U
+  tags:
+    - Packaging
+    - Conference
+  description: |
+    In this talk, we will use venv, the environment managing tool that come with CPython, and conda, the tool that is popular among data science partitioners to decipher how environment and dependency management works. First, we will go through some basic knowledge of how Python “sees” your package and know where to import them when needed. Then, we will make the audience aware that, to avoid the requirement conflict amount different projects, we need a new set of environments for each project.
+  date: 2023-12-19
+  author: Cheuk Ting Ho
+
+- title: DjangoCon US - Let's build a BeeWare app that uses Django
+  vid: wAExEfkcY1U
+  tags:
+    - Django
+    - Conference
+  description: |
+    BeeWare is a framework that let users of all skill levels develop applications with native user interfaces. It is very powerful to extend the already existing Django application to multiple devices. In this talk, we will demo building a simple Beeware app with a Django backend.
+  date: 2023-12-15
+  author: Cheuk Ting Ho
+
+- title: TechWebinarNepal - What are the most common OSS security pitfalls?
+  vid: KFKW9xUiFMY
+  tags:
+    - Security
+    - Conference
+  description: |
+    We are all aware of OWASP top 10 and the most common vulnerabilities in API usage and web applications. However, have you considered what are the most common pitfalls of security risk in using open-source projects? In this talk, we will explore them and think of how we can avoid them.
+  date: 2023-12-14
+  author: Cheuk Ting Ho
+
+- title: OpenSSF Day - We Make Python Safer Than Ever
+  vid: jhzv5RU56V4
+  tags:
+    - Security
+    - Conference
+  description: |
+    Python is one of the programming languages that has a huge open-source supply chain. There are over 400,000 Python packages on Python Package Index (PyPI) and many more on other registries. Making sure this and the wider Python ecosystem are secure is a huge job and requires consistent contributions. Thanks to OpenSSF’s Alpha-Omega project, we now have a PSF Security Developer-in-Residence whose responsibility includes a security audit of the PyPI codebase and infrastructure, improving security practices, and establishing metrics on security posture to show impact. In this talk, we will have the PSF Security Developer-in-Residence himself talk about the effort that has been put in and plans to make Python safer. We will also have one of the PSF board of directors talking about what this means for the Python community and as community members how we can contribute to this effort.
+  date: 2023-10-06
+  author: Cheuk Ting Ho
+
+- title: PyCon Estonia - HTMX vs WASM more backend or frontend?
+  vid: E9AIPYsR_2c
+  tags:
+    - WASM
+    - Conference
+  description: |
+    This talk discusses the history of WASM, the Iodide project, and the rise of Pyodide and PyScript alongside the HTMX library, demonstrating their usage. It invites you to reconsider their application-building approaches and questions the need for JavaScript in web development. You will explore several popular tools in recent years, making them rethink their approach to building their applications. Hopefully, by seeing the live demos, you are encouraged to try these tools and learn more about the use case and how it can help them in future projects.
+  date: 2023-10-06
+  author: Cheuk Ting Ho
+
+- title: EuroPython - Polars vs Pandas what's the difference?
+  vid: YUMhGp1ryUY
+  tags:
+    - Data
+    - Conference
+  description: |
+    Have you heard about Polars? What are the differences? Is Polars replacing Pandas? In this talk, we are going to demystify these questions about Polars. Compares the differences between Polars and Pandas, and explains the pros and cons of both of them.
+  date: 2023-09-19
+  author: Cheuk Ting Ho
+
+- title: EuroPython - Q&A panel for data science newbies
+  vid: GUbxXyUw_30
+  tags:
+    - Data
+    - Conference
+  description: |
+    Join us for this Q&A session, where a panel of data science experts will be there to address all of your pressing questions. This session is designed to create a relaxed and welcoming environment for complete beginners in the field, offering guidance on topics that might be causing confusion.
+  date: 2023-09-19
+  author: Cheuk Ting Ho
+
+- title: PyCon PL - Polars vs Pandas what's the difference?
+  vid: By22S56bLC8
+  tags:
+    - Data
+    - Conference
+  description: |
+    In this talk, we will explore what is Polars, a new tabular data management package that is written in Rust and used Arrow. Many people compare it to Pandas, the goto package for tabular data management for years. However, there is still some confusion regarding what Polars really is, whether or not it is more efficient than Pandas and if you can just replace Pandas with Polars. Hopefully, by the end of the talk, all of these questions will be answered and for people new to Polars, they will feel encouraged to try it out and more confident to make the switch.
+  date: 2023-08-29
+  author: Cheuk Ting Ho
+
+- title: PyCon PL - Untangle Python Spaghetti
+  vid: pXg2UHv-B5M
+  tags:
+    - Packaging
+    - Conference
+  description: |
+    In this talk, we will use venv, the environment managing tool that come with CPython, and conda, the tool that is popular among data science partitioners to decipher how environment and dependency management works. First, we will go through some basic knowledge of how Python “sees” your package and know where to import them when needed. Then, we will make the audience aware that, to avoid the requirement conflict amount different projects, we need a new set of environments for each project.
+  date: 2023-08-29
+  author: Cheuk Ting Ho
+
+- title: PyCon PL - Untangle Python Spaghetti
+  vid: pXg2UHv-B5M
+  tags:
+    - Packaging
+    - Conference
+  description: |
+    In this talk, we will use venv, the environment managing tool that come with CPython, and conda, the tool that is popular among data science partitioners to decipher how environment and dependency management works. First, we will go through some basic knowledge of how Python “sees” your package and know where to import them when needed. Then, we will make the audience aware that, to avoid the requirement conflict amount different projects, we need a new set of environments for each project.
+  date: 2023-08-29
+  author: Cheuk Ting Ho
+
+- title: PyCon Chana PyLadies Night - How To Step Up Your Talk/Proposal For A Python Conference.
+  vid: 1T1tJ8FAwkc
+  tags:
+    - Community
+  description: |
+    Discover and learn expert tips on how to level up your talk/ tutorial proposal and make a lasting impression at any Python conference.
+  date: 2023-08-25
+  author: Cheuk Ting Ho
+
+- title: DevRelCon Tokyo - What’s wrong with Hacktoberfest.
+  vid: G3IuoV0_2G8
+  tags:
+    - Community
+    - Conference
+  description: |
+    In this talk, we will briefly introduce Hactoberfest, though not much introduction is needed as it is a well-known event. We will go through some fun facts and the history of Hacktoberfest fest and how it goes from 700 participants to more than 100,000. Then, we will go from why it is good for the open source community and from both the perspective of the contributors and the maintainers.
+  date: 2023-08-10
+  author: Cheuk Ting Ho
+
+- title: PyCon Colombia - Don't just test, my friend, test better.
+  vid: tA51jXVLnQY
+  tags:
+    - Testing
+    - Conference
+  description: |
+    In this talk, we will visit some valuable tools in Pytest, for example, parameterize, fixture and xfail. All of them provided what problem these tool is trying to solve, an example use case and an example code. The talk will be conducted in a storytelling kind of way, with an example project and writing a test suit to test different features in the project. The goal of this talk is to give beginner code a head start in improving their ability to write meaningful and complex tests.
+  date: 2023-08-04
+  author: Cheuk Ting Ho
+
+- title: JupyterCon 2023 - Driving Down The Memray Lane
+  vid: 56smzzDadwQ
+  tags:
+    - Conference
+  description: |
+    When handling a large amount of data, memory profiling the data science workflow becomes more important. It gives you insight into which process consumes lots of memory. In this talk, we will introduce Mamray, a Python memory profiling tool and its new Jupyter plugin.
+  date: 2023-07-20
+  author: Cheuk Ting Ho
+
+- title: PyCon Lithuania 2023 - HTMX vs WASM
+  vid: 58EA9kXQFHE
+  tags:
+    - Conference
+    - PyCon LT
+  description: |
+    This talk discusses the history of WASM, the Iodide project, and the rise of Pyodide and PyScript alongside the HTMX library, demonstrating their usage. It invites you to reconsider their application-building approaches and questions the need for JavaScript in web development. You will explore several popular tools in recent years, making them rethink their approach to building their applications. Hopefully, by seeing the live demos, you are encouraged to try these tools and learn more about the use case and how it can help them in future projects.
+  date: 2023-06-15
+  author: Cheuk Ting Ho
+
+- title: PyCon Lithuania 2023 - Driving Down The Memray Lane
+  vid: 4nEBZkdqmS8
+  tags:
+    - Conference
+    - PyCon LT
+  description: |
+    When handling a large amount of data, memory profiling the data science workflow becomes more important. It gives you insight into which process consumes lots of memory. In this talk, we will introduce Mamray, a Python memory profiling tool and its new Jupyter plugin.
+  date: 2023-06-15
+  author: Cheuk Ting Ho
+
+- title: DjangoCon Europe 2023 - HTMX vs WASM - more backend or more frontend?
+  vid: zm7eJC_9JiY
+  tags:
+    - Conference
+    - Django
+  description: |
+    Mozilla has been promoting WASM for years, on the other hand, HTMX is gaining attraction. Question is, do we want more frontend or more backend? Do we still need to write JavaScripts?
+
+    In the first half of the talk we would explore the history of WASM and the Iodide project, what they enable and the closing of the Iodide project. Then we will talk about the rise of the Pyodide project and what this project enables - including another popular framework - PyScript. There will be some quick code demo of both Pyodide and PyScript.
+
+    In the second half of the talk, we will switch our attention to HTMX, what's the idea behind it and how it can be used to access AJAX, CSS Transitions, WebSockets and Server-Sent Events directly in HTML. There will also be some code demos of how to use HTMX, especially using it together with Django.
+
+    In the last part of the talk, there will be a conclusion, do we want more backend or more frontend? And most importantly, will web developers ever need to write JavaScript anymore?
+
+    Goal
+    The attendee of this talk will explore several popular tools in recent years which will make them rethink their approach to building their applications. Hopefully, by seeing the live demos, they are encouraged to try these tools out and learn more about the use case and how it can help them in future projects.
+  date: 2023-06-08
+  author: Cheuk Ting Ho
+
+- title: PyCon US - Trying No GIL on Scientific Programming
+  vid: 7ih7LbK6ODo
+  tags:
+    - Conference
+  description: |
+    Last year, Sam Gross, the author of nogil fork on Python 3.9, demonstrated the GIL can be removed. For scientific programs which use heavy CPU-bound processes, it could be a huge performance improvement. In this talk, we will see if this is true and compare the no-gil version to the original.
+
+    In this talk, we will have a look at what is no-gil Python and how it may improve the performance of some scientific calculations. First of all, we will touch upon the background knowledge of the Python GIL, what is it and why it is needed. On the contrary, why it is stopping multi-threaded CPU processes to take advantage of multi-core machines.
+
+    After that, we will have a look at no-gil Python, a fork of CPython 3.9 by Sam Gross, and how it provides an alternative to using Python with no GIL, demonstrating it could be the future of the newer versions of Python. With that, we will try out this version of Python in some popular yet calculation-heavy algorithms in scientific programming and data sciences e.g. PCA, clustering, categorization and data manipulation with Scikit-learn and Pandas. We will compare the performance of this no-gil version with the original standard CPython distribution.
+
+    This talk is for Pythonistas who have intermediate knowledge of Python and are interested in using Python for scientific programming or data science. It may shine some light on having a more efficient way of using Python in their tasks and interest in trying the no-gil version of Python.
+  date: 2023-06-02
+  author: Cheuk Ting Ho
+
+- title: PyCon US - Power up your work with compiling and profiling
+  vid: uI6T0y4Vbyc
+  tags:
+    - Conference
+    - Tutorial
+  description: |
+    Have you been troubled by Python code that took too long to run? Do you want to know why and how to improve?
+
+    In this workshop, we will introduce Numba - a JIT compiler that is designed to speed up numerical calculations. Most people found all of it is like a mystery - It sounds like magic, but how does it work? Under what conditions does it work? And because of it, new users found it hard to start using it and it requires a steep learning curve to get the hang of it. This workshop will provide all the knowledge that you need to make Numba works for you.
+
+    This workshop is for Data scientists or developers who have math-heavy code that would like to speed up with the benefit of Numpy and Numba.
+  date: 2023-06-02
+  author: Cheuk Ting Ho
+
+- title: PyCon Sweden - I hate writing tests, that's why I use Hypothesis
+  vid: 4kQiC6leO54
+  tags:
+    - Conference
+  description: |
+    Ok, I lied, I still write tests. But instead of the example-based tests that we normally write, have you heard of property-based testing? By using Hypothesis, instead of thinking about what data I should test it for, it will generate test data, including boundary cases, for you.
+  date: 2023-04-30
+  author: Cheuk Ting Ho
+
+- title: PyCascades 2023 - Untangle Python Spaghettis - Deep Dive Into Environment Management
+  vid: Rfz5Bm-AG1M
+  tags:
+    - Conference
+  description: |
+    After learning doing in Python, we started multiple Python or Data Science projects. Dependency management becomes a skill that we need to avoid requirement conflicts amount projects. In this talk, we will learn how dependencies management tools work and how to choose the right one to use.
+  date: 2023-04-12
+  author: Cheuk Ting Ho
+
+- title: PyCon Limerick 23 - Don't just test, my friend, test better
+  vid: pxabsoecl5E
+  tags:
+    - Conference
+  description: |
+    We all know that we need to write tests, some of you may even practice test-driven development. Pytest provides lots of tools for you to write better tests, however, not all of them we are familiar with. Let's revisit them and see how they can be used to write better tests.
+
+    In this talk, we will visit some valuable tools in Pytest, for example, parameterize, fixture and xfail. All of them provided what problem these tool is trying to solve, an example use case and an example code. The talk will be conducted in a storytelling kind of way, with an example project and writing a test suit to test different features in the project. The goal of this talk is to give beginner code a head start in improving their ability to write meaningful and complex tests.
+
+    This talk is for beginner programmers and data scientists who can write Python code and know the basics of testing but have yet to get their hands dirty in writing complex tests that, for example, involve an external application, which will require extra tools from Pytest to achieve that.
+  date: 2023-03-25
+  author: Cheuk Ting Ho
+
+- title: Untangle Python spaghetti
+  vid: PCohAKCn1XQ
+  tags:
+    - Conference
+  description: |
+    Untangle Python spaghetti - a dive into environments and dependencies management
+
+    Once we get started in Python, dependency management becomes a skill that we need to avoid requirement conflicts amongst projects. In this talk, we will learn how dependency management tools work and how to choose the right one to use.
+  date: 2023-02-23
+  author: Cheuk Ting Ho
+
+- title: Better Data Governance with Revision Control Workflows
+  vid: IycYAl-U9v4
+  tags:
+    - Conference
+  description: |
+    At the beginning of the talk, we will explore the role of revision control in promoting open-source software development. Cheuk will talk about how open-source software contribution is made possible with tools like git and GitHub. Next Cheuk will review how most database is lacking this revision control feature. She will also talk about why that is a problem and how we can improve.
+
+    In this talk, Cheuk may demo some Python code with the use of TerminusDB, which is an open-source graph database. However, no Python knowledge will be needed to understand the topic and discussion in this talk.
+
+    This talk is for those who work with data within a team and is seeking a better solution to collaborate and share data, making the data pipeline more efficient and benefiting data science teams in their productivity.
+  date: 2023-02-17
+  author: Cheuk Ting Ho
+
+- title: Will PyScript replace Django? - What PyScript is and is not
+  vid: 2rm_tyl7iGI
+  tags:
+    - Conference
+    - OSS
+  description: |
+    In this talk, through some examples and demos of PyScript, we will see how to use it - just include the CDN URL, understand that it is a frontend-only Python that runs on the browser and learn the fact that it can work with javascript in conjunction.
+
+    After that, we will look at what is under the hood - Pyodide - which is a Python distribution for the browser. It is what is essential to power PyScript. We will discover what is the difference between using PyScript and Pyodide.
+
+    Finally, we will conclude what is already available in PyScirpt like which library you can run on PyScript and which ones are still yet to come. In the end, we will answer the question - Will PyScript replace Django?
+
+    This talk is for those who are curious about PyScript and the idea of running Python in the browser in general. We will assume no piror knowledge about it.
+  date: 2023-02-05
+  author: Cheuk Ting Ho
+
+- title: PyData Bristol Meetup
+  vid: yYlkurfCaxQ
+  tags:
+    - Meetup
+    - OSS
+  description: |
+    Using Numba Effectively Today - Cheuk Ting Ho
+
+    Have you ever heard of Numba? It is (mainly) a JIT (Just-In-Time) compiler to make your math-heavy Python code run faster under certain conditions. Most people found all of it is like a mystery - It sounds like magic, but how does it work? Under what conditions does it work? And because of it, new users found it hard to start using it and it requires a steep learning curve to get the hang of it.
+
+    This talk requires no prior experience. Through demos, we will explore in what situation Numba works, when it does not and the reason why. We will also look at some cases where we can make Numba works by changing a few things in your code. Hopefully, by the end of the talk, you will have a better understanding of how Numba works before you even start using it. This knowledge can save you some time on try and error, making your experience in using it better.
+  date: 2023-01-12
+  author: Cheuk Ting Ho
+
+- title: PyData Tel Aviv 2022 - I Hate writing Tests, That's Why I Use Hypothesis
+  vid: __DfM6R4nVs
+  tags:
+    - PyData
+    - OSS
+  description: |
+    In this talk, we will explore what is property-based testing and why it can do a lot of heavy lifting in writing tests for us. As a contributor, I will introduce Hypothesis, a Python library that can help perform property-based tests with ease.
+  date: 2023-01-11
+  author: Cheuk Ting Ho
+
+- title: PyBerlin 36 - 🍁🍁 Special autumn event. Day 1 🍁🍁
+  vid: bY96j3fZ6WY
+  tags:
+    - Meetup
+    - OSS
+  description: |
+    Using Numba Effectively Today // Cheuk Ting Ho
+    Numba is syntactically easy to use - just add a decorator, but actually very hard to use effectively. The reason being it is difficult to understand what Numba does to speed up the numeric operation. This talk will provide all the basic knowledge that you need to make Numba works for you.
+  date: 2022-11-23
+  author: Cheuk Ting Ho
+
+- title: I have to Confess, I still Love Pandas - presented by Cheuk Ting Ho
+  vid: 48coa6Ry6wY
+  tags:
+    - Conference
+    - OSS
+  description: |
+    In this talk, Cheuk will reapproach Pandas as someone who is a fluent user of the library. Cheuk will review why Pandas is useful to work with data and what advantage it has over the alternatives methods. As Pandas has many functionalities, Cheuk will dissect the discussion on the potential usage of Pandas in day-to-day data science workflow: data inspection, data cleaning, feature engineering etc.
+  date: 2022-08-18
+  author: Cheuk Ting Ho
+
+- title: Came for the Conference, Stayed for the Sprint
+  vid: c_HoP_V1gj0
+  tags:
+    - Conference
+    - Community
+  description: |
+    Many Python conferences have "sprints" included in their conference schedule. In this talk, we will explain what is it for the newcomers, why is it important to the open-source community, and as an organizer and maintainer how can you help this "sprints" movement.
+  date: 2022-10-22
+  author: Cheuk Ting Ho
+
+- title: PyData Südwest - Revolutionize Data Visulization with PyScript
+  vid: hwR2taWOINM
+  tags:
+    - Meetup
+    - PyScript
+  description: |
+    PyScript hit the community like a storm after its announcement and becomes the top trending project on GitHub. It allows the running of Python on the browser. But there’s still some misunderstanding of it. Will it replace all web frameworks? What you can or cannot use PyScript for? Let’s find out.
+  date: 2022-10-19
+  author: Cheuk Ting Ho
+
+- title: PyLadies Paris - Python Talks with Cheukting Ho and Elias Dorneles
+  vid: MqctbU9lMTU
+  tags:
+    - Meetup
+    - PyScript
+  description: |
+    7:30 - 8:15 talk by Cheukting Ho
+    🌟 Cheukting Ho (Anaconda)
+    talk title: Will PyScript replace Django? - What PyScript is and is not
+    Abstract: PyScript hit the community like a storm after its announcement and becomes the top trending project on GitHub. It allows the running of Python on the browser. But there’s still some misunderstanding of it. Will it replace all web frameworks? What you can or cannot use PyScript for? Let’s find out.
+  date: 2022-10-18
+  author: Cheuk Ting Ho
+
+- title: Will PyScript replace Django? - What PyScript is and is not
+  vid: tzRRImsez88
+  tags:
+    - DjangoConEurope
+    - OSS
+    - PyScript
+  description: |
+    PyScript hit the community like a storm after its announcement and becomes the top trending project on GitHub. It allows the running of Python on the browser. But there’s still some misunderstanding of it. Will it replace all web frameworks? What you can or cannot use PyScript for? Let’s find out.
+  date: 2022-10-14
+  author: Cheuk Ting Ho
+
+- title: I hate writing tests, that's why I use Hypothesis
+  vid: A_Ow-XdmyLU
+  tags:
+    - PyConUK
+    - OSS
+  description: |
+    Ok, I lied, I still write tests. But instead of the example-based tests that we normally write, have you heard of property-based testing? By using Hypothesis, instead of thinking about what data I should test it for, it will generate test data, including boundary cases, for you.
+  date: 2022-09-17
+  author: Cheuk Ting Ho
+
+- title: Revolutionize Data Visulization with PyScript
+  vid: figPq-gSb4A
+  tags:
+    - PyConSK
+    - OSS
+    - PyScript
+  description: |
+    Since the announcement of PyScript, it has gained lots of attention and imagination about how we can run applications of Python in the browser. Out of everything that I have come across, most of the use cases are data visualisation. Let’s see how we can up our data viz game with PyScript.
+  date: 2022-09-14
+  author: Cheuk Ting Ho
+
+- title: I hate writing tests, that's why I use Hypothesis
+  vid: etupZeYKvH8
+  tags:
+    - PyLadies Munich
+    - OSS
+    - Meetup
+  description: |
+    In this talk, we will explore what is property-based testing and why it can do a lot of heavy lifting in writing tests for us. As a contributor, I will introduce Hypothesis, a Python library that can help perform property-based tests with ease.
+  date: 2022-09-06
+  author: Cheuk Ting Ho
+
+- title: Trojan Source Code - Can we trust open-source anymore?
+  vid: OiA84akH8ic
+  tags:
+    - PyConLT
+    - OSS
+  description: |
+    Recently, a paper is published to demonstrate how a visibly valid contribution can contain malicious code by exporting the Unicode control characters. Some of these attacks has been tested on Python and it works. Shall the Python and open-source communities be concerned?
+  date: 2022-08-23
+  author: Cheuk Ting Ho
+
+- title: I Have to Confess, I Still Love Pandas
+  vid: gFGlXvFemVk
+  tags:
+    - PyOhio
+    - OSS
+  description: |
+    Pandas is the first Python library that I learned to use. It is used by data scientists to manage, transform and inspect data. As more and more open-source tools appear, it seems the spotlight has shifted and I would love to shine some light on this tool that all should know.
+  date: 2022-07-30
+  author: Cheuk Ting Ho
+
+- title: Trojan Source - Can we trust open-source anymore?
+  vid: OuXxWYPBxW4
+  tags:
+    - PyConIT
+    - OSS
+  description: |
+    Recently, a paper is published to demonstrate how a visibly valid contribution can contain malicious code by exporting the Unicode control characters. Some of these attacks has been tested on Python and it works. Shall the Python and open-source communities be concerned?
+  date: 2022-07-23
+  author: Cheuk Ting Ho
+
+- title: Picking What to Watch Next - Build a Recommendation System
+  vid: JYZxiBcmL-s
+  tags:
+    - PyData
+    - OSS
+    - Tutorial
+  description: |
+    Recommendation algorithms are the driving force of many businesses: e-commerce, personalized advertisement, on-demand entertainment. Computer algorithms know what you like and present you with things that are customized for you. Here we will explore how to do that by building a system ourselves.
+  date: 2022-07-06
+  author: Cheuk Ting Ho
+
+- title: Why AI Industry needs a Revision Control Graph Database
+  vid: EoiI7qxWp2s
+  tags:
+    - BelPy
+    - TerminusDB
+  description: |
+    Data is the driving force for ML&AI. As technology advances, we are dealing with bigger and more complicated data. Through use cases, Cheuk will show you how a graph database with revision control would provide a logical way of storing data and provide data ops like branch, merge and rollback.
+  date: 2022-07-03
+  author: Cheuk Ting Ho
+
+- title: Knowledge graph data modelling with TerminusDB
+  vid: nHTm-2YvSp8
+  tags:
+    - PyConUS
+    - TerminusDB
+    - Tutorial
+  description: |
+    You will have learnt a new skill set that may assist you in your project in data science or research. You will have a new tool that you can better model your data and collaborate with others. Also, you gain all the prerequisites to use WOQL - a query language for knowledge graphs and the TerminusDB Python client to manage, manipulate and visualize data in your knowledge graph.
+  date: 2022-06-27
+  author: Cheuk Ting Ho
+
+- title: Better Data Governance with Revision Control Workflows
+  vid: _EwCkq96ppI
+  tags:
+    - Meetup
+    - TerminusDB
+  description: |
+    Revisional control ecosystems like git and GitHub makes revolutions in open-source software development. So what’s next? Why is revisional control still not a more common practice in data management? In this talk, we will explore the possibility of better data governance.
+  date: 2022-05-26
+  author: Cheuk Ting Ho
+
+- title: Trojan Source Malware - Can we trust open-source anymore?
+  vid: cm5lI5u9-eE
+  tags:
+    - PyConDE
+    - OSS
+  description: |
+    Recently, a paper is published to demonstrate how a visibly valid contribution can contain malicious code by exporting the Unicode control characters. Some of these attacks has been tested on Python and it works. Shall the Python and open-source communities be concerned?
+  date: 2022-05-12
+  author: Cheuk Ting Ho
+
+- title: From Zero to Hero, My Python journey to the West
+  vid: r8P4aQPsFZU
+  tags:
+    - PyConHK
+    - Community
+  description: |
+    I left Hong Kong, the place that I was born and lived for 30 years, 5 years ago with no technical experience. (Except for a few programming experience in University time, mainly serves my research studies) Moving to London, a city where technology is in high demand, opens a lot of doors for me. Here I know about open-source and Python. I learnt Python, been to lots of meet-ups and made lots of friends. I was welcomed by the community with open arms, in here I have met smart people, dedicated people, fun and nerdy people, and all of them are lovely. I am not joking if I say Python gave me this new life. I am so proud to be a Pythonistas, grateful about where I am now that I would like to share my journey with you. I hope everyone will find their journey in this amazing community.
+  date: 2022-01-28
+  author: Cheuk Ting Ho
+
+- title: Developing a tap and target for Singer.io - Open Source ETL
+  vid: SPMlbPsqa_k
+  tags:
+    - PyConAPAC
+    - TerminusDB
+  description: |
+    With lot's of databases and data products out there, pulling data from one and piping it into another is a common task. With Singer.io taps and targets you can create your own pipeline easily. I will show you how to develop them in Python to work with a graph database.
+  date: 2022-01-28
+  author: Cheuk Ting Ho
+
+- title: Turning Pandas DataFrames to Semantic Knowledge Graph
+  vid: OJx-lQHH-JY
+  tags:
+    - PyData
+    - TerminusDB
+  description: |
+    Storing data in tables has its limitations. Usually joining and aggregations are required to represent more complicated datasets and extract desirable data. Storing data in a semantic graph may be the solution and I am showing you how to programmatically switching from pandas to the knowledge graph.
+  date: 2022-01-20
+  author: Cheuk Ting Ho
+
+- title: Knowledge Graph Data Modelling With Terminusdb
+  vid: CeOTkBkRbWw
+  tags:
+    - PyData
+    - TerminusDB
+    - Tutorial
+  description: |
+    Storing data in a tabular format is not always ideal. Taking advantage of strong data in knowledge graphs can make handling complex data structure possible and data visualization easier. In this workshop, you will get all the basics to start modelling data, building schemas using triples.
+  date: 2022-01-14
+  author: Cheuk Ting Ho
+
+- title: Turning Pandas DataFrames to Semantic Knowledge Graph
+  vid: VjOuS57GLBQ
+  tags:
+    - PyConTW
+    - TerminusDB
+  description: |
+    Storing data in tables has its limitations. Usually joining and aggregations are required to represent more complicated datasets and extract desirable data. Storing data in a semantic graph may be the solution and I am showing you how to programmatically switching from pandas to the knowledge graph.
+  date: 2021-11-28
+  author: Cheuk Ting Ho
+
+- title: Knowledge Graph Data Modelling With Terminusdb
+  vid: 2agT-LLKVYw
+  tags:
+    - PyConTW
+    - TerminusDB
+    - Tutorial
+  description: |
+    Storing data in a tabular format is not always ideal. Taking advantage of strong data in knowledge graphs can make handling complex data structure possible and data visualization easier. In this workshop, you will get all the basics to start modelling data, building schemas using triples.
+  date: 2021-11-28
+  author: Cheuk Ting Ho
+
+- title: Getting Started with the TerminusDB - Lesson 6 - Version control, time travel, branch, and rebase
+  vid: aooqmigtwK8
+  tags: TerminusDB
+  description: |
+    This is video 6 of 6 in the Getting Started with the TerminusDB Python Client.
+
+    Lesson 6 demonstrates how to branch your database using the Python client, switch between versions, rollback in time and how to rebase your changes.
+  date: 2021-10-26
+  author: Cheuk Ting Ho
+
+- title: Getting Started with the TerminusDB - Lesson 5 - Query and get results back as CSVs or DataFrames
+  vid: ORkHJg76Pok
+  tags: TerminusDB
+  description: |
+    This is video 5 of 6 in the Getting Started with the TerminusDB Python Client.
+
+    Lesson 5 shows how to query objects in the database and export the results to a CSV file or for more complex queries such as statistical analysis as dataframes.
+  date: 2021-10-26
+  author: Cheuk Ting Ho
+
+- title: Getting Started with the TerminusDB - Lesson 4 - Update existing and import new data
+  vid: bM08lMNLQ6E
+  tags: TerminusDB
+  description: |
+    This is video 4 of 6 in the Getting Started with the TerminusDB Python Client.
+
+    Lesson 4 demonstrates how you can use Python scripts to update and link to existing data and how to add new data which also links to it.
+  date: 2021-10-26
+  author: Cheuk Ting Ho
+
+- title: Getting Started with the TerminusDB - Lesson 3 - Importing Data from Python Script
+  vid: NEfdwvgZCBg
+  tags: TerminusDB
+  description: |
+    This is video 3 of 6 in the Getting Started with the TerminusDB Python Client.
+
+    Lesson 3 shows how to import data using a Python script to handle more complex data imports.
+  date: 2021-10-26
+  author: Cheuk Ting Ho
+
+- title: Getting Started with the TerminusDB - Lesson 2 - Importing a CSV into the database
+  vid: ruZzI8NwgRM
+  tags: TerminusDB
+  description: |
+    This is video 2 of 6 in the Getting Started with the TerminusDB Python Client.
+
+    Lesson 2 demonstrates how to use import CSV commands to import CSV files into your database.
+  date: 2021-10-26
+  author: Cheuk Ting Ho
+
+- title: Getting Started with the TerminusDB - Lesson 1 - Install TerminusDB, start project and create an empty database with schema
+  vid: Ej4WcRcy0UM
+  tags: TerminusDB
+  description: |
+    This is video 1 of 6 in the Getting Started with the TerminusDB Python Client.
+
+    Lesson 1 covers installing TerminusDB, starting a new project, and finally creating an empty database with just a schema.
+  date: 2021-10-26
+  author: Cheuk Ting Ho
+
+- title: How to be Pythonic? Design a Query Language in Python
+  vid: WwneEVRVeOE
+  tags:
+    - Conf42
+    - TerminusDB
+  description: |
+    We created Python API calls that let you can make queries and manipulate data in our graph database. We thought about what will be best for Pythonistas? What will be the most Pythonic way to do it? (Is it a thing?) Here’s our journey in making WOQLpy and we want to make it useful to you.
+  date: 2021-06-26
+  author: Cheuk Ting Ho
+
+- title: Oops, I Did It Again! When Your Deploying CI Pipeline Is Broken
+  vid: Yovmuz8eVT0
+  tags:
+    - PyConUS
+    - OSS
+  description: |
+    Oops, I Did It Again! When Your Deploying CI Pipeline Is Broken - Maintainers Summit at PyCon US
+  date: 2021-05-10
+  author: Cheuk Ting Ho
+
+- title: Python Zero to Hero - Ep.41 - Last time we ganna talk about emoji prediction for a while
+  vid: CG4Zx5F34Cc
+  tags: Python Zero to Hero
+  description: |
+    It will be the last time we ganna talk about emoji prediction for a while, could we package the library and release it on PyPI? If you have any questions or any suggestions about which Python topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+  date: 2021-04-18
+  author: Cheuk Ting Ho
+
+- title: Python Zero to Hero - Ep.40 - Answering questions on Stackoverflow
+  vid: Q9axsSf6tRg
+  tags: Python Zero to Hero
+  description: |
+    We will have some fresh air and do something different this episode, we look for some Python questions to answer on Stackoverflow. If you have any questions or any suggestions about which Python topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+  date: 2021-04-11
+  author: Cheuk Ting Ho
+
+- title: Python Zero to Hero - Ep.39 - Packaging a ML project
+  vid: yFYJS8FPPAI
+  tags: Python Zero to Hero
+  description: |
+    It's time to think about how to ship our emoji prediction. In this episode, we try to move things over to our emoprint and see how we can design the build process. If you have any questions or any suggestions about which Python topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+  date: 2021-03-19
+  author: Cheuk Ting Ho
+
+- title: Python Zero to Hero - Ep.38 - Will a dictionary of emoji help us in the prediction?
+  vid: 7NBkcshr970
+  tags: Python Zero to Hero
+  description: |
+    Like all NLP projects, it's not easy as the quality of your data may dictate everything! I showed some experiments on the old method that we used and we may have a better result with the new dataset - emoji net. If you have any questions or any suggestions about which Python topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+  date: 2021-03-07
+  author: Cheuk Ting Ho
+
+- title: Python Zero to Hero - Ep.37 - NLP with BERT encoding can predict emoji?
+  vid: tMgeLZId4ww
+  tags: Python Zero to Hero
+  description: |
+    To make our emoprint less useless (double negative, let me try again) more useful, we will see if we can use some NLP tricks, namely BERT encoding to do emoji prediction. If you have any questions or any suggestions about which Python topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+  date: 2021-02-28
+  author: Cheuk Ting Ho
+
+- title: Mid Meet Py 2021 - Ep.02 - Let's chat with Lemon
+  vid: _jjh5h9Sphk
+  tags: Mid Meet Py
+  description:
+    This week we will chat with Leon 'Lemon' Sandøy, one of the owners of Python Discord. Do you know why he is called Lemon? We also talked about some history and behind the scenes of Python Discord.
+
+    All links are in the podcast notes where you can find on our [webpage](https://midmeetpy.org)
+
+    [Listen to MidMeetPy podcast](https://anchor.fm/midmeetpy)
+  date: 2021-02-26
+  author: Cheuk Ting Ho
+
+- title: Python Zero to Hero - Ep.36 - The most useless library ever
+  vid: kbf8fDeqR78
+  tags: Python Zero to Hero
+  description: |
+    Today you will be making the most useless Python library with me ever. We will start this week and keep on building this library (so hopefully at the end it will be not so useless). If you have any questions or any suggestions about which Python topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+
+    You can get the slide deck [here](https://slides.com/cheukting_ho) and the example code and homework form [GitHub here](https://github.com/Cheukting/python02hero). Ask questions at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+  date: 2021-02-14
+  author: Cheuk Ting Ho
+
+- title: Python Zero to Hero - Ep.35 - (Valentine's Day Special) Standard Libraries
+  vid: Cl0OHJ-Hlts
+  tags: Python Zero to Hero
+  description: |
+    Happy Valentine's Day Pythonistas! And on this special day, we look at the lovely Python standard libraries which are the batteries that are included with your Python download. No need to pip install 3rd party libraries you can do many things with them. If you have any questions or any suggestions about which Python topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+
+    You can get the slide deck [here](https://slides.com/cheukting_ho) and the example code and homework form [GitHub here](https://github.com/Cheukting/python02hero). Ask questions at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+  date: 2021-02-14
+  author: Cheuk Ting Ho
+
+- title: Python Zero to Hero - Ep.34 - What is PEP?
+  vid: HjOlgJb6YT8
+  tags: Python Zero to Hero
+  description: |
+    For the short episode today, we will have a look at what is PEP and how many of them are there. We will answer the questions of what is PEP 8 and other PEPS. If you have any questions or any suggestions about which Python topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+
+    You can get the slide deck [here](https://slides.com/cheukting_ho) and the example code and homework form [GitHub here](https://github.com/Cheukting/python02hero). Ask questions at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+  date: 2021-01-31
+  author: Cheuk Ting Ho
+
+- title: Mid Meet Py 2021 - Ep.01 - We are back and chat with Laura Gutierrez Funderburk
+  vid: AhQe9bfV4-k
+  tags: Mid Meet Py
+  description:
+    This week we will chat with Laura Gutierrez Funderburk of PyLadies Vancouver. Also, check out the Flask tutorial by Miguel Grinberg.
+
+    All links are in the podcast notes where you can find on our [webpage](https://midmeetpy.org)
+
+    [Listen to MidMeetPy podcast](https://anchor.fm/midmeetpy)
+  date: 2021-01-29
+  author: Cheuk Ting Ho
+
+- title: Python Zero to Hero - Ep.33 - Python ABC (Abstract Base Classes)
+  vid: MpDKdIOjXhk
+  tags: Python Zero to Hero
+  description: |
+    I have come across Python ABC a few times and I always wonder what magic power do they processed and what are they used for. Today, we will have a look together. If you have any questions or any suggestions about which Python topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+
+    You can get the slide deck [here](https://slides.com/cheukting_ho) and the example code and homework form [GitHub here](https://github.com/Cheukting/python02hero). Ask questions at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+  date: 2021-01-17
+  author: Cheuk Ting Ho
+
+- title: Python Zero to Hero - Ep.32 - Exploring what's in a package
+  vid: NKhYj1ZRFgY
+  tags: Python Zero to Hero
+  description: |
+    This time we will use the magic build-in function "dir" to explore what's in a package and how python put things in place. If you have any questions or any suggestions about which Python topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+
+    You can get the slide deck [here](https://slides.com/cheukting_ho) and the example code and homework form [GitHub here](https://github.com/Cheukting/python02hero). Ask questions at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+  date: 2021-01-17
+  author: Cheuk Ting Ho
+
+- title: World of WoqlCraft - Ep.26 Documentation Graph
+  vid: xRKvNIK6ZZk
+  tags: World of WoqlCraft
+  description: |
+    Have you ever try extracting all the Docstrings from a Python package and build a graph database for it? Today, we are going to try doing that.
+
+    Find the source code from our [tutorial repo](https://github.com/terminusdb/terminus-tutorials).
+
+    Join the TerminusDB community at [Discord](https://discord.gg/Gvdqw97)
+  date: 2021-01-14
+  author: Cheuk Ting Ho
+
+- title: How to Mock Well in Tests Using Mock and Pytest
+  vid: gaeEXCPDb2Y
+  tags:
+    - PyConf Hyderabad
+    - OSS
+  description: |
+    How to Mock Well in Tests Using Mock and Pytest - PyConf Hyderabad 2020
+  date: 2020-12-25
+  author: Cheuk Ting Ho
+
+- title: Python Zero to Hero - Ep.31 - Flask before new year
+  vid: 6K1s1uGk_iQ
+  tags: Python Zero to Hero
+  description: |
+    One last episode with Flask before the new year! We will continue the amazing tutorial that we follow last time and see what we learnt from it before the end of 2020. If you have any questions or any suggestions about which Python topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+
+    You can get the slide deck [here](https://slides.com/cheukting_ho) and the example code and homework form [GitHub here](https://github.com/Cheukting/python02hero). Ask questions at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+  date: 2020-12-20
+  author: Cheuk Ting Ho
+
+- title: Shiny Apps in Jupyter Notebook using Bokeh & Python
+  vid: f_Jzg8InF0g
+  tags:
+    - PyData
+    - OSS
+  description: |
+    Cheuk Ting Ho is going to deliver a workshop on making Shiny App in Jupyter Notebooks using Bokeh and Python. Cheuk works as Developer Relations @ TerminusDB and constantly contributes to open source community by giving free tutorials on Twitch and organizing conferences.
+  date: 2020-12-19
+  author: Cheuk Ting Ho
+
+- title: Python Zero to Hero - Ep.30 - Templates and User Forms in Flask
+  vid: k9enBJ3xtCs
+  tags: Python Zero to Hero
+  description: |
+    This time, we will follow a wonderful tutorial by Miguel Grinberg to build a website with Flask. If you have any questions or any suggestions about which Python topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+
+    You can get the slide deck [here](https://slides.com/cheukting_ho) and the example code and homework form [GitHub here](https://github.com/Cheukting/python02hero). Ask questions at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+  date: 2020-12-13
+  author: Cheuk Ting Ho
+
+- title: Under and Dunder - Python secret functions
+  vid: hQh9tyRfEKs
+  tags:
+    - PyCon India
+    - OSS
+  description: |
+    Under and Dunder - Python secret functions at PyCon India 2020
+  date: 2020-12-03
+  author: Cheuk Ting Ho
+
+- title: Handbook for Successful Online Open Source Sprints
+  vid: e4LuI_iqGcA
+  tags:
+    - OSS
+  description: |
+    Handbook for Successful Online Open Source Sprints - OpenSource Summit
+  date: 2020-11-29
+  author: Cheuk Ting Ho, Tania Allard
+
+- title: Python Zero to Hero - Ep.29 - Building Fast with Flask
+  vid: 19PkakWlCEA
+  tags: Python Zero to Hero
+  description: |
+    This time, we see how Flask can let you build a web app super fast. It has a syntax similar to Fast API but can do more. If you have any questions or any suggestions about which Python topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+
+    You can get the slide deck [here](https://slides.com/cheukting_ho) and the example code and homework form [GitHub here](https://github.com/Cheukting/python02hero). Ask questions at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+  date: 2020-11-29
+  author: Cheuk Ting Ho
+
+- title: Python Zero to Hero - Ep.28 - Quick Look at FastAPI
+  vid: OHhC85ly_iM
+  tags: Python Zero to Hero
+  description: |
+    In this episode, we have a quick first look at what FastAPI offer and how to compose the API of an app (with free docs) with just very simple Python code. If you have any questions or any suggestions about which Python topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+
+    You can get the slide deck [here](https://slides.com/cheukting_ho) and the example code and homework form [GitHub here](https://github.com/Cheukting/python02hero). Ask questions at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+  date: 2020-11-22
+  author: Cheuk Ting Ho
+
+- title: Python Zero to Hero - Ep.27 - Further exploring Django
+  vid: TADwSnAdD24
+  tags: Python Zero to Hero
+  description: |
+    After a long break, we continue with our Django exploration journey. This time we see how the app's UI come into place by using some default Django template. If you have any questions or any suggestions about which Python topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+
+    You can get the slide deck [here](https://slides.com/cheukting_ho) and the example code and homework form [GitHub here](https://github.com/Cheukting/python02hero). Ask questions at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+  date: 2020-11-15
+  author: Cheuk Ting Ho
+
+- title: Python Zero to Hero - Ep.26 - Continue exploring Django
+  vid: GAJKL7pWCPE
+  tags: Python Zero to Hero
+  description: |
+    Following last week, we continue with our Django exploration journey. If you have any questions or any suggestions about which Python topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+
+    You can get the slide deck [here](https://slides.com/cheukting_ho) and the example code and homework form [GitHub here](https://github.com/Cheukting/python02hero). Ask questions at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+  date: 2020-10-18
+  author: Cheuk Ting Ho
+
+- title: Python Zero to Hero - Ep.25 - Let's learn Django
+  vid: GAJKL7pWCPE
+  tags: Python Zero to Hero
+  description: |
+    Today I started my journey learning Django by following the beginner tutorial at the official documentation. I made some discovery and it was fun. If you have any questions or any suggestions about which Python topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+
+    You can get the slide deck [here](https://slides.com/cheukting_ho) and the example code and homework form [GitHub here](https://github.com/Cheukting/python02hero). Ask questions at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+  date: 2020-10-11
+  author: Cheuk Ting Ho
+
+- title: PyData Hamburg September 2020
+  vid: FY9aqax1wNs
+  tags:
+    - PyData
+    - Meetup
+  description: |
+    On September 22nd 2020 the PyData Hamburg meetup featured two international guest speakers sharing insights on how to keep data pipelines under control. The meetup was hosted by Yuming Pan, Camila Kuhn & Christian Staudt.
+  date: 2020-09-29
+  author: Cheuk Ting Ho, Lais Carvalho
+
+- title: Python Zero to Hero - Ep.24 - Python environment management tools
+  vid: mKpuhhPKDmo
+  tags: Python Zero to Hero
+  description: |
+    Today I have dive deeper into various Python environment management tools. I think it would be really helpful for beginners to start the habit of using separate environments for different projects. So come and pick one for yourself! If you have any questions or any suggestions about which Python topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+
+    You can get the slide deck [here](https://slides.com/cheukting_ho) and the example code and homework form [GitHub here](https://github.com/Cheukting/python02hero). Ask questions at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+  date: 2020-09-27
+  author: Cheuk Ting Ho
+
+- title: World of WoqlCraft - Ep.25 Exploring the Dbpedia and Seshat dataset
+  vid: ht2nYMvqt5w
+  tags: World of WoqlCraft
+  description: |
+    Today we will explore the DBpedia and Seshat dataset using our new graph visualisation tool in Jupyter notebook. Not only generating a cool interactive graph in the Jupyter notebook, but we can also export it as an HTML file.
+
+    Find the source code from our [tutorial repo](https://github.com/terminusdb/terminus-tutorials).
+
+    Join the TerminusDB community at [Discord](https://discord.gg/Gvdqw97)
+  date: 2020-09-25
+  author: Cheuk Ting Ho
+
+- title: Open-source in the eyes of a Minority Contributor
+  vid: r3W-vcsQo80
+  tags:
+    - PyData
+  description: |
+    Cheuk Ting Ho - Open-source in the eyes of a Minority Contributor | PyData Fest Amsterdam 2020
+
+    In the first part of this talk, I will talk about my personal experience in contributing to open-source. From learning how to make a Pull Request on GitHub to maintaining libraries. From attending my first meetup to co-organizing conferences. I will tell you what I observe as a self-identifying female. My opinion on certain events that happened. And what “help” do we, minorities in the community, need.
+
+    In the second part of the talk, I will change to a more subjective angle to look at the diversity issues in the open-source community, especially in Python and Data Science communities. I will try to address what effort has been made and what more we can do. In the end, I will try to convince you all the be our ally and to do the right thing to make our community more inclusive and diverse.
+  date: 2020-09-21
+  author: Cheuk Ting Ho
+
+- title: Python Zero to Hero - Ep.23 - Learn click with me
+  vid: AaG1S2UjHhY
+  tags: Python Zero to Hero
+  description: |
+    I have not used click - a Python library that let you effortlessly create a cli tool, for years. So I would like to learn it again. Let's learn it together! If you have any questions or any suggestions about which Python topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+
+    You can get the slide deck [here](https://slides.com/cheukting_ho) and the example code and homework form [GitHub here](https://github.com/Cheukting/python02hero). Ask questions at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+  date: 2020-09-20
+  author: Cheuk Ting Ho
+
+- title: World of WoqlCraft - Ep.24 Graph visualisation on Jupyter notebook
+  vid: 6RwccCujX2s
+  tags: World of WoqlCraft
+  description: |
+    Today we will have a quick look at the new plug-in of the TerminusDB client which gives customisable interactive graph visualisation on Jupyter notebook. JavaScript did the heavy lifting but the users are just required to write in Python.
+
+    Find the source code from our [tutorial repo](https://github.com/terminusdb/terminus-tutorials).
+
+    Join the TerminusDB community at [Discord](https://discord.gg/Gvdqw97)
+  date: 2020-09-18
+  author: Cheuk Ting Ho
+
+- title: Mid Meet Py - Ep.23 - Interview with Vicky Tomey-Lee
+  vid: H3yMpAHMi5s
+  tags: Mid Meet Py
+  description: |
+    PyChat
+      [DjangoCon 2020 Sept 18th and 19th](https://2020.djangocon.eu)
+
+      Cheuk and I will be speaking at [PyData Hamburg on Sept 22nd](https://twitter.com/PyDataHamburg/status/1302709670440775680)
+
+      Humber Data Workshop with PyData Global [open for application](https://humbledata.org/event/pydataglobal2020.html)
+
+      [Answer survey to improve pip’s usability](https://pyfound.blogspot.com/2020/09/answer-surveys-improve-pip-ux.html?m=1)
+
+      EuroPython Society General Assembly 2020 [this Sunday](https://www.europython-society.org/post/626791290466615296/europython-society-general-assembly-2020)
+
+      [Python 4 FAQ by Guido](https://twitter.com/gvanrossum/status/1306270482384076800)
+
+    Mid Meet - Hall of Fame
+
+      Vicky Tomey-Lee
+
+      Founder of PythonIE, [PyLadies Dublin chapter](https://twitter.com/PyLadiesDub), [Coding Grace](https://twitter.com/CodingGrace)
+
+      Follow Vicky on [Twitter](https://twitter.com/whykay)
+
+      Follow Vicky on [dev.to](https://dev.to/whykay)
+
+    PyPI highlights
+
+      [Papermill](https://github.com/nteract/papermill) - let’s you use parameters and trigger actions on a notebook.
+
+    [Listen to MidMeetPy podcast](https://anchor.fm/midmeetpy)
+  date: 2020-09-16
+  author: Cheuk Ting Ho
+
+- title: Mid Meet Py - Ep.22 - Ask us anything
+  vid: Bgi6VyOv9BE
+  tags: Mid Meet Py
+  description: |
+    PyChat
+
+      Very important - [Pyjamas CfP extended to 19th Sept!!!!](https://twitter.com/PyjamasConf/status/1301994754343927811)
+
+      [Humble Data](https://twitter.com/HumbleData) workshop with PyData Global @ 7th November
+
+      [PyCon AU recording is out](https://www.youtube.com/user/PyConAU)
+
+      [Some recent stats on Woman in Eng (EWB South Africa)](https://twitter.com/EWBSA/status/1298605057068486657)
+
+    [Listen to MidMeetPy podcast](https://anchor.fm/midmeetpy)
+  date: 2020-09-09
+  author: Cheuk Ting Ho
+
+- title: Under and Dunder - Python secret functions
+  vid: YqoBvEaAU5w
+  tags:
+    - PyConAU
+  description: |
+    At the start, we will be using `dir` to look into the secret functions Python objects have. Eg:
+    `__getitem__`, `__iter__` and `__next__` Then, we will investigate where is the dunder function goes? Why is it not accessible. And at the end, we will see how dunder functions can change the identity of the Python objects.
+
+    This talk is for attendees who have just begin their Python journey. By explaining the dunder functions and the nature of Python objects, attendees will have a better understanding of why Python is fundamentally different from other programming languages. Hopefully, this knowledge will help them out when they continue their Python journeys.
+  date: 2020-09-08
+  author: Cheuk Ting Ho
+
+- title: Untangle Spaghetti Python Paths
+  vid: ec2qVxdOySU
+  tags:
+    - PyCon Africa
+  description: |
+    To avoid having such a spaghetti in your computer, you should create a new virtual environment when you start a new project and have a single tool to record your environment setup (e.g. which version of python, what packages to install) so it is reproducible.
+  date: 2020-09-08
+  author: Cheuk Ting Ho
+
+- title: Python Zero to Hero - Ep.22 - Python os and subprocess
+  vid: H_vXIRAL-I8
+  tags: Python Zero to Hero
+  description: |
+    Today we will explore the Python os and subprocess module and see how it could help us in reading and writing files. Also how you can use subprocess to spin up a docker container. If you have any questions or any suggestions about which Python topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+
+    You can get the slide deck [here](https://slides.com/cheukting_ho) and the example code and homework form [GitHub here](https://github.com/Cheukting/python02hero). Ask questions at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+  date: 2020-09-06
+  author: Cheuk Ting Ho
+
+- title: World of WoqlCraft - Ep.23 Quick up data for TerminusDB 3.0
+  vid: 6RwccCujX2s
+  tags: World of WoqlCraft
+  description: |
+    Just a quick update about what is new for our new TerminusDB 3.0 release and our Python client. Now with Terminus Hub you can get the graphs that we show in previous episodes from Terminus Hub.
+
+    Find the source code from our [tutorial repo](https://github.com/terminusdb/terminus-tutorials).
+
+    Join the TerminusDB community at [Discord](https://discord.gg/Gvdqw97)
+  date: 2020-09-04
+  author: Cheuk Ting Ho
+
+- title: Mid Meet Py - Ep.21 - Interview with Jesper Dramsc
+  vid: JGyqCt8Umqc
+  tags: Mid Meet Py
+  description: |
+    PyChat
+
+      Very important - [Pyjamas CfP ends this Saturday!!!!](https://twitter.com/PyjamasConf/status/1300780564929228803)
+
+      [PyCon TaiWan (Maybe) the first non-online PyCon since COVID outbreak (5-6 Sep 2020)](https://tw.pycon.org/2020/en-us/)
+
+      At the same time - [PyConline AU (4-6 Sept) you can join anywhere in the world](https://2020.pycon.org.au/)
+
+      [PyData Global tickets are now available!](https://global.pydata.org/pages/tickets.html)
+
+      You can get PyData Swag [here](https://twitter.com/PyData/status/1296998059591774208)
+      [Bokeh 2.2 is out!](https://medium.com/bokeh/bokeh-2-2-d9096a223df6)
+
+    Mid Meet - Hall of Fame
+
+      Jesper Dramsc - ML engineer
+
+      Follow Jesper on [Twitter](https://twitter.com/JesperDramsch)
+
+      Skill share course [here](https://www.skillshare.com/site/join?teacherRef=6379366&via=teacher-referral&utm_campaign=teacher-referral&utm_source=ShortUrl&utm_medium=teacher-referral&t=Data-Science-and-Business-Analytics-with-Python&sku=1489151284)
+
+      [Pyrocko](https://pyrocko.org/)
+
+      [StatsQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
+
+    PyPI highlights
+
+      [Docker Compose](https://pypi.org/project/docker-compose/) (is a Python library!!!!)
+
+      [Present](https://github.com/vinayak-mehta/present) - make your slides with a terminal window with flare
+
+      [Opacus](https://ai.facebook.com/blog/introducing-opacus-a-high-speed-library-for-training-pytorch-models-with-differential-privacy/)
+
+    [Listen to MidMeetPy podcast](https://anchor.fm/midmeetpy)
+  date: 2020-09-02
+  author: Cheuk Ting Ho
+
+- title: Python Zero to Hero - Ep.21 - More Python List and Dict
+  vid: ekkkCivI-Zw
+  tags: Python Zero to Hero
+  description: |
+    We go deeper with Python list and dictionary this time to see how we can create a list with the beautiful list comprehension. Also, we will see how we can sort a list in various ways. Before we end the episode, we also have a look at the OrderedDict and Counter that the Collections library offer. If you have any questions or any suggestions about which Python topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+
+    You can get the slide deck [here](https://slides.com/cheukting_ho) and the example code and homework form [GitHub here](https://github.com/Cheukting/python02hero). Ask questions at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+  date: 2020-08-29
+  author: Cheuk Ting Ho
+
+- title: World of WoqlCraft - Ep.22 WorldNet
+  vid: L8re0n0W8rQ
+  tags: World of WoqlCraft
+  description: |
+    Today we will be trying to insert WordNet into a schema-less graph. After that, we will have a look at what is in the schema-less graph and try to make sense out of it.
+
+    Find the source code from our [tutorial repo](https://github.com/terminusdb/terminus-tutorials).
+
+    Join the TerminusDB community at [Discord](https://discord.gg/Gvdqw97)
+  date: 2020-08-28
+  author: Cheuk Ting Ho
+
+- title: Mid Meet Py - Ep.20 - Interview with Bojan Miletic
+  vid: 8qbluO6-4uE
+  tags: Mid Meet Py
+  description: |
+    PyChat
+
+        PyCon Italy [cancelled](https://pycon.it/en/blog/pycon-11-cancelled/)
+
+        [Pyjamas CfP workshop](https://pyjamas.live/blog/ask-me-anything) August 27th & 28th
+
+        Ticket sale to [PyData Global](https://global.pydata.org//) starts tomorrow (27th Aug)
+
+        [Data Science and Business Analytics with Python course](https://www.skillshare.com/classes/Data-Science-and-Business-Analytics-with-Python/1489151284/projects?via=search-layout-grid) - Jesper Dramsch
+
+        [CircuitPython day](https://circuitpython.org) - Sept 9th - Adafruit [newsletter](https://www.adafruitdaily.com/2020/08/25/python-on-microcontrollers-newsletter-usb-midi-host-8000-thanks-projects-and-more-python-adafruit-circuitpython-circuitpython-micropython-thepsf/)
+
+        Nadia’s [new book on Open Source](https://twitter.com/nayafia/status/1273304859387719680) - Guido’s [tweet](https://twitter.com/gvanrossum/status/1297043394712092672)
+
+    Mid Meet - Hall of Fame
+
+        Bojan Miletic - Python developer
+        Follow Bojan on [Twitter](https://twitter.com/mrBoyan)
+        [Virtual Coffee](https://calendly.com/bojan-miletic/virtual-coffee)
+        [Website](https://www.softerrific.com/)
+
+    PyPI highlights
+
+        [Pytest-docker-compose](https://github.com/pytest-docker-compose/pytest-docker-compose)
+
+    [Listen to MidMeetPy podcast](https://anchor.fm/midmeetpy)
+  date: 2020-08-26
+  author: Cheuk Ting Ho
+
+- title: The Legend of Data - Ep.13 - Boosting Algorithms
+  vid: U4_nEf8B6e0
+  tags: The Legend of Data
+  description: |
+    This week, we will have an introduction to different popular boosting algorithms. We will go over their characteristics and differences so hopefully will help you to find the right one in the future.
+
+    If you have any questions or any suggestions about which Python or Data Science topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+
+    You can get the slide deck [here](https://slides.com/cheukting_ho/legend-data-pandas1/). The notebook that I used can be found [here](https://github.com/Cheukting/legend_data).
+  date: 2020-08-17
+  author: Cheuk Ting Ho
+
+- title: Python Zero to Hero - Ep.20 - Python functional programming
+  vid: Ympp6_Zt320
+  tags: Python Zero to Hero
+  description: |
+    Today we will explore what is functional programming. Also, we will introduce `map`, `filter` and `reduce` in Python which you can do functional programming. If you have any questions or any suggestions about which Python topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+
+    You can get the slide deck [here](https://slides.com/cheukting_ho) and the example code and homework form [GitHub here](https://github.com/Cheukting/python02hero). Ask questions at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+  date: 2020-08-21
+  author: Cheuk Ting Ho
+
+- title: World of WoqlCraft - Ep.21 bank example
+  vid: RGwXcPd7Hoo
+  tags: World of WoqlCraft
+  description: |
+    Today we will be exploring the bank example in the Python client which showcase how we can create an account, make some changes to the details and branching it.
+
+    Find the source code from our [tutorial repo](https://github.com/terminusdb/terminus-tutorials).
+
+    Join the TerminusDB community at [Discord](https://discord.gg/Gvdqw97)
+  date: 2020-08-20
+  author: Cheuk Ting Ho
+
+- title: Mid Meet Py - Ep.19 - Interview with Nina Zakharenko
+  vid: T-7ilqkcQI4
+  tags: Mid Meet Py
+  description: |
+    PyChat
+      [PyBay impressions](https://pybay.com/program/)
+      PyCon India extended their [CfP until TODAY](https://twitter.com/pyconindia/status/1294661036138618880)!
+      Nominate a PSF fellow! Deadline is [TOMORROW](https://twitter.com/ThePSF/status/1295431462334980096)!
+      Django 3.1 [release notes](https://docs.djangoproject.com/en/3.1/releases/3.1/) - backwards incompatibilities 3.0 earlier.
+      [Consortium for Python Data API Standards - from these peeps](https://data-apis.org/blog/announcing_the_consortium/)
+      PyLadies section
+        PyLadies India & WomanTechmakers hosting a [Show&Tell](https://twitter.com/PyladiesI/status/1294931267566280711) on Aug 29th!
+          [Participation form](https://docs.google.com/forms/d/e/1FAIpQLScUeOe8Nr-S3nb5n5cgcBKEUO2-lWHOED8_FtjXjjw6_PW4DQ/viewform)
+        PyLadies Munich hosting [Naomi Ceder](https://twitter.com/pyladiesmunich/status/1295670252416704512) on Aug 27th talking about Python Objects
+
+    Mid Meet - Hall of Fame
+      Nina Zakharenko - PSF Director
+      Follow Nina on [Twitter](https://twitter.com/nnja)
+      Follow Nina on [Twitch](https://www.twitch.tv/nnjaio) (Python Tea)
+
+    PyPI highlights
+      [AI Fairness 360 (aif360)](https://github.com/Trusted-AI/AIF360)
+      [CherryPy](https://github.com/cherrypy/cherrypy)
+
+    [Listen to MidMeetPy podcast](https://anchor.fm/midmeetpy)
+  date: 2020-08-19
+  author: Cheuk Ting Ho
+
+- title: The Legend of Data - Ep.12 - Comparing models
+  vid: sn_-Acj1DfY
+  tags: The Legend of Data
+  description: |
+    In this episode, we will be Introducing various metrics, standard measurements that we will use to measure how "good" a model is. Being able to pick the right model for your machine learning predictions is one of the most important things in data science.
+
+    If you have any questions or any suggestions about which Python or Data Science topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+
+    You can get the slide deck [here](https://slides.com/cheukting_ho/legend-data-pandas1/). The notebook that I used can be found [here](https://github.com/Cheukting/legend_data).
+  date: 2020-08-17
+  author: Cheuk Ting Ho
+
+- title: Python Zero to Hero - Ep.19 - Python type hinting
+  vid: sWGNwcGsD5M
+  tags: Python Zero to Hero
+  description: |
+    Python is dynamically typed, which makes it very easy to learn for beginners. However, there are many reasons why we would like to annotate the type of variables in our code. In this episode, we will explore those scenarios and look at how type hinting works in Python. If you have any questions or any suggestions about which Python topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+
+    You can get the slide deck [here](https://slides.com/cheukting_ho) and the example code and homework form [GitHub here](https://github.com/Cheukting/python02hero). Ask questions at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+  date: 2020-08-16
+  author: Cheuk Ting Ho
+
+- title: World of WoqlCraft - Ep.20 new branch and copy over
+  vid: UO8L6hdt-i8
+  tags: World of WoqlCraft
+  description: |
+    Today we will be using the Python client to create a new branch and copying data over. We will see how the `branch` and `checkout` methods can be used and how the `node` query can copy data across branches.
+
+    Find the source code from our [tutorial repo](https://github.com/terminusdb/terminus-tutorials).
+
+    Join the TerminusDB community at [Discord](https://discord.gg/Gvdqw97)
+  date: 2020-08-14
+  author: Cheuk Ting Ho
+
+- title: The Legend of Data - Ep.11 - Decision Tree
+  vid: 39TktQSkovM
+  tags: The Legend of Data
+  description: |
+    Decision tree-based algorithms are a family of common algorithms to be used in many machine learning applications. By drawing conclusions based on the labelled data provided, it can build a decision path to give a prediction based on the different values of different features given.
+
+    If you have any questions or any suggestions about which Python or Data Science topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+
+    You can get the slide deck [here](https://slides.com/cheukting_ho/legend-data-pandas1/). The notebook that I used can be found [here](https://github.com/Cheukting/legend_data).
+  date: 2020-08-10
+  author: Cheuk Ting Ho
+
+- title: Python Zero to Hero - Ep.18 - Python packaging
+  vid: p6WqpSCjAZo
+  tags: Python Zero to Hero
+  description: |
+    Python packaging is one of the reasons why Python is loved by so many no matter how they used Python for. With the ability to install extra Python package, you can use Python to achieve different tasks easily. In this episode, we will talk about how all these works. If you have any questions or any suggestions about which Python topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+
+    You can get the slide deck [here](https://slides.com/cheukting_ho) and the example code and homework form [GitHub here](https://github.com/Cheukting/python02hero). Ask questions at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+  date: 2020-08-09
+  author: Cheuk Ting Ho
+
+- title: World of WoqlCraft - Ep.19 making of the Smart Query?
+  vid: LSlqe91zlKA
+  tags: World of WoqlCraft
+  description: |
+    This time we are doing something different, looking at the idea of creating a wrapper of the WOQL.py to create a smooth passing of the Python object to the WOQLQuery. We will also explore the possibility of using a metaclass in Python.
+
+    Find the source code from our [tutorial repo](https://github.com/terminusdb/terminus-tutorials).
+
+    Join the TerminusDB community at [Discord](https://discord.gg/Gvdqw97)
+  date: 2020-08-07
+  author: Cheuk Ting Ho
+
+- title: Mid Meet Py - Ep.18 - Interview with Vincent D. Warmerdam
+  vid: bGmNjy4s-70
+  tags: Mid Meet Py
+  description: |
+    PyChat:
+      [PyCon Africa is happening now](https://africa.pycon.org/) data science for beginners workshop this Sunday
+
+      [PyData Global DfP extended to 16th Aug](https://global.pydata.org/pages/cfp.html)([Joke about PyData CfP](https://twitter.com/DiegoATorresQ/status/1289633316564541441))
+
+      [PyjamasConf CfP is opened](https://pyjamas.live/cfp/)
+
+      [PyBamn just joined NumFocus](https://github.com/pybamm-team/PyBaMM?eType=EmailBlastContent&eId=5f12e53e-8fa3-4c16-8741-46244d87e6c5)
+
+      [Numfocus is looking for a Dev Rel](https://numfocus.org/jobs/open-source-developer-advocate?eType=EmailBlastContent&eId=5f12e53e-8fa3-4c16-8741-46244d87e6c5)
+
+      [Raspberry Pi Keyboard in Japanese](https://twitter.com/Raspberry_Pi/status/1290977599859183616)
+
+      [Create google assistant with Raspberry PI???](https://twitter.com/ThePiHut/status/1290977130482933763)
+
+    Mid Meet - Hall of Fame:
+
+      Vincent D. Warmerdam - co-founder of PyData Amsterdam, Developer Advocate for Rasa
+
+      Follow Vincent on [Twitter](https://twitter.com/fishnets88)
+
+    PyPi Highlights - [Rasa](https://rasa.com/)
+
+    [Listen to MidMeetPy podcast](https://anchor.fm/midmeetpy)
+  date: 2020-08-05
+  author: Cheuk Ting Ho
+
+- title: The Legend of Data - Ep.10 - Categorical Data
+  vid: LJQWx_WLpJA
+  tags: The Legend of Data
+  description: |
+    Categorical data are everywhere, but machines are not good at dealing with them. So we need to have different ways of handling categorical data. In this episode, we will briefly introduce come ways of categorical data feature engineering and some machine learning algorithms that are designed to deal with categorical data.
+
+    If you have any questions or any suggestions about which Python or Data Science topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+
+    You can get the slide deck [here](https://slides.com/cheukting_ho/legend-data-pandas1/). The notebook that I used can be found [here](https://github.com/Cheukting/legend_data).
+  date: 2020-08-03
+  author: Cheuk Ting Ho
+
+- title: Python Zero to Hero - Ep.17 - Python docs
+  vid: sjsY45VtK9I
+  tags: Python Zero to Hero
+  description: |
+    To make code usable we have to ensure users and developers know what the code is doing. We can add comments to explain thing but it's still limited. That's why we need to write docstrings in Python and with a bit of magic (a.k.a Sphinx) we can make the docstrings into a documentation website. If you have any questions or any suggestions about which Python topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+
+    You can get the slide deck [here](https://slides.com/cheukting_ho) and the example code and homework form [GitHub here](https://github.com/Cheukting/python02hero). Ask questions at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+  date: 2020-08-02
+  author: Cheuk Ting Ho
+
+- title: World of WoqlCraft - Ep.18 Finish Knowledge Graph for NLP and Using It
+  vid: e6n-5SvezE4
+  tags: World of WoqlCraft
+  description: |
+    Going through the hurdles and bugs, we have finally finished the knowledge graph for the SpaCy doc and making some query to get back the relations between the tokens.
+
+    Find the source code from our [tutorial repo](https://github.com/terminusdb/terminus-tutorials).
+
+    Join the TerminusDB community at [Discord](https://discord.gg/Gvdqw97)
+  date: 2020-07-31
+  author: Cheuk Ting Ho
+
+- title: Mid Meet Py - Ep.17 - Interview with Martin Borus
+  vid: 2fklLbv7voY
+  tags: Mid Meet Py
+  description: |
+    PyChat:
+
+      [We need you! Data Science workshop at PyCon Africa needs mentors](https://twitter.com/cheukting_ho/status/1288036498764333056)
+
+      [PyData Global CfP deadline is 2nd August !!!](https://global.pydata.org//pages/cfp.html)
+
+      [Pytest 6 is out now](https://twitter.com/nicoddemus/status/1288203623353266177)
+
+      [Hacktoberfest Website is already out ?!](https://hacktoberfest.digitalocean.com/)
+
+      [PyBerlin tonight](https://www.meetup.com/PyBerlin/events/271482013/)
+
+      [PyData Cambridge - 20th Meetup happening tonight!](https://www.meetup.com/PyData-Cambridge-Meetup/events/271836696/)
+
+    Mid Meet - Hall of Fame:
+
+      Matin Borus - Pythonista, Volunteer of EuroPython
+      Follow Martin on [Twitter](https://twitter.com/mborus)
+
+
+    PyPI highlights:
+
+      [PhotoCollage](https://github.com/adrienverge/PhotoCollage) [made this](https://pypi.org/project/photocollage/)
+      [Authlib](https://github.com/lepture/authlib)
+
+    [Listen to MidMeetPy podcast](https://anchor.fm/midmeetpy)
+  date: 2020-07-29
+  author: Cheuk Ting Ho
+
+- title: The Legend of Data - Ep.9 - Logistic Regression
+  vid: U_6hMz00sp8
+  tags: The Legend of Data
+  description: |
+    *Sorry for the video quality, lot's of frames were dropped... I am still investigating why*
+
+    Today we continue to explore how we can fit a model to predict the outcome given the data. In some cases, the outcome is either this or that, it's a binary prediction and in this case, it cannot be fit with a straight line like we did last week. Therefore, we need logistic regression.
+
+    If you have any questions or any suggestions about which Python or Data Science topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+
+    You can get the slide deck [here](https://slides.com/cheukting_ho/legend-data-pandas1/). The notebook that I used can be found [here](https://github.com/Cheukting/legend_data).
+  date: 2020-07-28
+  author: Cheuk Ting Ho
+
+- title: Python Zero to Hero - Ep.16 - Python async
+  vid: AADqu43ef9U
+  tags: Python Zero to Hero
+  description: |
+    *Sorry for the video quality, lot's of frames were dropped during the streaming due to my bad internet connection*
+
+    Today we continue our story from generators to async. Introducing both the coroutine in asyncio (introduced in Python 3.4) and awaitable async function (introduced in Python 3.5). If you have any questions or any suggestions about which Python topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+
+    You can get the slide deck [here](https://slides.com/cheukting_ho) and the example code and homework form [GitHub here](https://github.com/Cheukting/python02hero). Ask questions at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+  date: 2020-07-26
+  author: Cheuk Ting Ho
+
+- title: World of WoqlCraft - Ep.17 Fixing the Knowledge Graph for NLP
+  vid: jyPO_ZoxlUc
+  tags: World of WoqlCraft
+  description: |
+    Sorry for the short episode, we are having EuroPython this week. We try to continue the knowledge graph that we build last week. We plan to use idgen() to link up the queries and with the new plus operator, it should be easy. But there is a twist at the end that stops us...
+
+    Find the source code from our [tutorial repo](https://github.com/terminusdb/terminus-tutorials).
+
+    Join the TerminusDB community at [Discord](https://discord.gg/Gvdqw97)
+  date: 2020-07-24
+  author: Cheuk Ting Ho
+
+- title: The Legend of Data - Ep.8 - Linear Regression
+  vid: 6hBNiUXgFWo
+  tags: The Legend of Data
+  description: |
+    **Join our [free data science workshop at PyCon Africa](https://t.co/bS4nlglBmh?amp=1)**
+
+    Starting from this week we will be doing machine learning. Linear regression is considered to be machine learning 101, and from seeing how linear regression works we will have a basic idea of how we can draw conclusions and make predictions with data.
+
+    If you have any questions or any suggestions about which Python or Data Science topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+
+    You can get the slide deck [here](https://slides.com/cheukting_ho/legend-data-pandas1/). The notebook that I used can be found [here](https://github.com/Cheukting/legend_data).
+  date: 2020-07-20
+  author: Cheuk Ting Ho
+
+- title: Python Zero to Hero - Ep.15 - Python generators
+  vid: 26Ci5E-9Tvg
+  tags: Python Zero to Hero
+  description: |
+    Moving from iterators late week, we have introduced generators (or generator functions). Which lets you create iterators just like writing a function, with yield. It also got a "send" method which lets you pass information from one iterator to another, setting the stage for async in Python. If you have any questions or any suggestions about which Python topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+
+    You can get the slide deck [here](https://slides.com/cheukting_ho) and the example code and homework form [GitHub here](https://github.com/Cheukting/python02hero). Ask questions at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+  date: 2020-07-19
+  author: Cheuk Ting Ho
+
+- title: World of WoqlCraft - Ep.16 Knowledge Graph for NLP
+  vid: R85QfT3k1H0
+  tags: World of WoqlCraft
+  description: |
+    This time we try to see if we can store the structure of a sentence in a knowledge graph? We build a schema to store the SpaCy tokens and will store the structure of a SpaCy doc in a graph. This is a part 1, we will continue loading it into the graph in next episode.
+
+    Find the source code from our [tutorial repo](https://github.com/terminusdb/terminus-tutorials).
+
+    Join the TerminusDB community at [Discord](https://discord.gg/Gvdqw97)
+  date: 2020-07-17
+  author: Cheuk Ting Ho
+
+- title: Mid Meet Py - Ep.16 - Interview with Sandrine Pataut
+  vid: yNNE8N1wl1o
+  tags: Mid Meet Py
+  description: |
+    PyChat:
+
+      [Pytest 6.0 is coming](https://twitter.com/pytestdotorg/status/1281954639684857856)
+
+      [GitHub -> Slack bot for pyladies](https://twitter.com/mariatta/status/1281739430554787840)
+
+      [Registrations for PyConAfrica2020 are open](https://twitter.com/pyconafrica/status/1282709212028600320)
+
+      [EuroPython 2020 will start on Thursday next week](https://twitter.com/europython/status/1282618451799023617)
+
+      [PyLadies Dublin Virtual Meetup July](https://www.meetup.com/PyLadiesDublin/events/271327497/)
+
+    Mid Meet - Hall of Fame:
+
+      Sandrine Pataut - Pythonista, Data Scientist
+
+      Follow Sandrine on [Twitter](https://twitter.com/SPataut)
+
+    PyPI highlights:
+
+      [Marshmallow](https://marshmallow.readthedocs.io/en/stable/)
+
+      [AffectInTweets](https://github.com/erayyildiz/AffectInTweets)
+
+    [Listen to MidMeetPy podcast](https://anchor.fm/midmeetpy)
+  date: 2020-07-15
+  author: Cheuk Ting Ho
+
+- title: The Legend of Data - Ep.7 - Data Visualization 4
+  vid: cj_QRu_4JJ4
+  tags: The Legend of Data
+  description: |
+    In this last episode of a series of data visualization tutorial, we talked about using Boken, an interactive plotting library to generate some interactive plots with our pokemon dataset. We also tried making a widget which will take a user's input to control the look of our plot.
+
+    If you have any questions or any suggestions about which Python or Data Science topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+
+    You can get the slide deck [here](https://slides.com/cheukting_ho/legend-data-pandas1/). The notebook that I used can be found [here](https://github.com/Cheukting/legend_data).
+  date: 2020-07-13
+  author: Cheuk Ting Ho
+
+- title: Python Zero to Hero - Ep.14 - Python iterators
+  vid: YSYjsI2O6v0
+  tags: Python Zero to Hero
+  description: |
+    In this tutorial, we will investigate Python's iterators. Whenever you are doing a for-loop, an iterator is created under the hood. Let's have a closer look at this mysterious Python object. If you have any questions or any suggestions about which Python topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+
+    You can get the slide deck [here](https://slides.com/cheukting_ho) and the example code and homework form [GitHub here](https://github.com/Cheukting/python02hero). Ask questions at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+  date: 2020-07-12
+  author: Cheuk Ting Ho
+
+- title: World of WoqlCraft - Ep.15 Querying movies data graph
+  vid: EL1xgD1ztv0
+  tags: World of WoqlCraft
+  description: |
+    We can now test out the IMDB movies data by making querying, asking what movie an actor is in and try to find a movie to watch by picking a genre. These all can be done in Jupyter Notebook with the TerminusDB Python client. Follow this series to see how we use TerminusDB client and making queries in Python.
+
+    Find the source code from our [tutorial repo](https://github.com/terminusdb/terminus-tutorials).
+
+    Join the TerminusDB community at [Discord](https://discord.gg/Gvdqw97)
+  date: 2020-07-03
+  author: Cheuk Ting Ho
+
+- title: Mid Meet Py - Ep.15 - Interview with Stéphane
+  vid: vubl0YfJNFA
+  tags: Mid Meet Py
+  description: |
+    PyChat:
+
+      [Python security announcement](https://twitter.com/zooba/status/1280235122730680324) - If your application embeds Python on Windows, you may be at risk.
+
+      [Matplotlib Cheatsheet](https://twitter.com/NPRougier/status/1280249448774414339)
+      [EuroPyhon Merch Shop](https://ep2020.europython.eu/europython/europython-merchandise-shop/) (15% off till 15th)
+
+      [Turn you Raspberry Pi into gaming machine](https://twitter.com/Raspberry_Pi/status/1280819367882764290)
+
+      [Python Ireland remote meetup event today](https://www.meetup.com/pythonireland/events/271602841/)
+
+      [Pydata event](https://www.meetup.com/pythonireland/events/271604309/): joined effort with regional meetup
+
+    Mid Meet - Hall of Fame:
+
+      Stéphane - CPython core developer, Board member of EuroPython
+
+      Follow Stéphane on [Twitter](https://twitter.com/matrixise)
+
+    PyPI highlights:
+
+      [Pandas-Bokeh](https://github.com/PatrikHlobil/Pandas-Bokeh) - using bokeh with pandas
+
+      [interrogate](https://pypi.org/project/interrogate/) checks your code base for missing docstrings.
+
+    [Listen to MidMeetPy podcast](https://anchor.fm/midmeetpy)
+  date: 2020-07-08
+  author: Cheuk Ting Ho
+
+- title: The Legend of Data - Ep.6 - Data Visualization 3
+  vid: momGI-b8_UA
+  tags: The Legend of Data
+  description: |
+    Continue form last week, we try plotting by simply using df.plot. It uses Matplotlib as a back end and make plotting much easier. Also, we tried out Seaborn, a library that makes beautiful plots by providing a higher-level API on top of Matplotlib.
+
+    If you have any questions or any suggestions about which Python or Data Science topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+
+    You can get the slide deck [here](https://slides.com/cheukting_ho/legend-data-pandas1/). The notebook that I used can be found [here](https://github.com/Cheukting/legend_data).
+  date: 2020-07-06
+  author: Cheuk Ting Ho
+
+- title: World of WoqlCraft - Ep.14 Finish building movies data graph
+  vid: 1N7C1D5l7Og
+  tags: World of WoqlCraft
+  description: |
+    We finally solve all the problems and finish loading all data in the most powerful TerminusDB 2.0, we are now ready to get some analysis out of the IMDB movies data. Follow this series to see how we use TerminusDB client and making queries in Python.
+
+    Find the source code from our [tutorial repo](https://github.com/terminusdb/terminus-tutorials).
+
+    Join the TerminusDB community at [Discord](https://discord.gg/Gvdqw97)
+  date: 2020-07-03
+  author: Cheuk Ting Ho
+
+- title: Mid Meet Py - Ep.14 - Interview with Waylon Walker
+  vid: GHhwqk-z3cE
+  tags: Mid Meet Py
+  description: |
+    PyChat:
+
+      [PyData global CfP is opened](https://global.pydata.org/pages/cfp.html)
+
+      [JupyterCon 2020 Virtual Event](https://jupytercon.com/?eType=EmailBlastContent&eId=7199698e-39b2-4a0a-b12b-1c819f8582be)
+
+      [PyTorch joins NumFOCUS as an Affiliated Project](https://github.com/pytorch/ignite?eType=EmailBlastContent&eId=7199698e-39b2-4a0a-b12b-1c819f8582be)
+
+      [PyGotham TV - last days for CfP (July 5th)](https://cfp.pygotham.tv/)
+
+      [Python Ireland remote meetup events](https://www.meetup.com/pythonireland/events/271602841/) > [volunteers for Lightning Talks](https://bit.ly/3g8w0xh)
+
+      [Blog about Pickle: Pickle’s nine flaws](https://nedbatchelder.com/blog/202006/pickles_nine_flaws.html)
+
+    Mid Meet - Hall of Fame
+
+      Interview with Waylon Walker ([Twitter](https://twitter.com/_waylonwalker) & [dev.to](https://dev.to/waylonwalker))- Data driven solution enabler, creator of find-kedro and kedro-static-viz
+
+    [Listen to MidMeetPy podcast](https://anchor.fm/midmeetpy)
+  date: 2020-07-01
+  author: Cheuk Ting Ho
+
+- title: The Legend of Data - Ep.5 - Data Visualization 2
+  vid: BTqDPbyuVBU
+  tags: The Legend of Data
+  description: |
+    This week we continue to do data visualisation with Matplotlib, we learn what are figures and axes, how to customize your plot by changing the elements in your axes, and having multiple subplots in a figure. In the end, we figure out a few slow fire type pokemon, can you guess what they are?
+
+    If you have any questions or any suggestions about which Python or Data Science topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+
+    You can get the slide deck [here](https://slides.com/cheukting_ho/legend-data-pandas1/). The notebook that I used can be found [here](https://github.com/Cheukting/legend_data).
+  date: 2020-06-29
+  author: Cheuk Ting Ho
+
+- title: Python Zero to Hero - Ep.13 - Test-driven Development
+  vid: QGJUkf9au0w
+  tags: Python Zero to Hero
+  description: |
+    This week, we go through topics around test-driven development (TDD), followed by a live demo of developing a Python program with TDD. If you have any questions or any suggestions about which Python topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+
+    You can get the slide deck [here](https://slides.com/cheukting_ho) and the example code and homework form [GitHub here](https://github.com/Cheukting/python02hero). Ask questions at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+  date: 2020-06-28
+  author: Cheuk Ting Ho
+
+- title: World of WoqlCraft - Ep.13 Continue building movies data graph
+  vid: 8TXwRxShUDA
+  tags: World of WoqlCraft
+  description: |
+    Using the new Python client for the most powerful TerminusDB 2.0, we continue building a knowledge graph with the IMDB movies data by loading the data from the csv.
+
+    Find the source code from our [tutorial repo](https://github.com/terminusdb/terminus-tutorials).
+
+    Join the TerminusDB community at [Discord](https://discord.gg/Gvdqw97)
+  date: 2020-06-26
+  author: Cheuk Ting Ho
+
+- title: Mid Meet Py - Ep.13 - Interview with Jason McDonald
+  vid: DUX00jisx5U
+  tags: Mid Meet Py
+  description: |
+    PyChat:
+
+      [Congratulations to new PSF board directors](http://pyfound.blogspot.com/2020/06/2020-python-software-foundation-board.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+PythonSoftwareFoundationNews+%28Python+Software+Foundation+News%29)
+
+      [PyCon India](https://in.pycon.org/2020/) - CfP open until the 14th August. Conf on 2nd & 3rd of October
+      PyCon Australia is happening soon - [CfP ends on July 12th](https://2020.pycon.org.au/)
+
+      [DjangoCon two full days of talks, free & online](https://2020.djangocon.eu/)
+
+    Mid Meet - Hall of Fame
+
+      Interview with Jason McDonald, author, speaker and time-lord.
+
+      Follow Jason on [Twitter](https://twitter.com/codemouse92) and [dev.to](https://dev.to/codemouse92)
+
+    [Listen to MidMeetPy podcast](https://anchor.fm/midmeetpy)
+  date: 2020-06-24
+  author: Cheuk Ting Ho
+
+- title: The Legend of Data - Ep.4 - Data Visualization 1
+  vid: XsLDjNY9jq4
+  tags: The Legend of Data
+  description: |
+    To start the topic of data visualisation, we went through why we do data visualisation, the common graph types and popular tool for data visualisation in Python. We also start talking about Matplotlib, the grand-daddy or the king of data visualisation.
+
+    If you have any questions or any suggestions about which Python or Data Science topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+
+    You can get the slide deck [here](https://slides.com/cheukting_ho/legend-data-pandas1/). The notebook that I used can be found [here](https://github.com/Cheukting/legend_data).
+  date: 2020-06-22
+  author: Cheuk Ting Ho
+
+- title: Python Zero to Hero - Ep.12 - Python linting and auto-formating
+  vid: CkUwszDfTsw
+  tags: Python Zero to Hero
+  description: |
+    In this tutorial, we have covered some popular Python linters and auto-formatters: flake8, autoflake, black and isort. We also talk a bit about tox and pre-commit and how to use them with the linters and auto-formatters. If you have any questions or any suggestions about which Python topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+
+    You can get the slide deck [here](https://slides.com/cheukting_ho) and the example code and homework form [GitHub here](https://github.com/Cheukting/python02hero). Ask questions at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+  date: 2020-06-21
+  author: Cheuk Ting Ho
+
+- title: World of WoqlCraft - Ep.12 Start creating movies data graph
+  vid: 0DKC5DQ5ho8
+  tags: World of WoqlCraft
+  description: |
+    Using the new Python client for the most powerful TerminusDB 2.0, we start creating a knowledge graph with the IMDB movies data.
+
+    Find the source code from our [tutorial repo](https://github.com/terminusdb/terminus-tutorials).
+
+    Join the TerminusDB community at [Discord](https://discord.gg/Gvdqw97)
+  date: 2020-06-19
+  author: Cheuk Ting Ho
+
+- title: Mid Meet Py - Ep.12 - Interview with Dani Papamaximou
+  vid: gklPNrkHRSM
+  tags: Mid Meet Py
+  description: |
+    PyChat:
+
+      [Dropping pytz?](https://twitter.com/pganssle/status/1271878126235197440)
+
+      [PyData MCR](https://twitter.com/PyDataMCR/status/1271902376962785280)
+
+      [CPython - old parser is dead](https://twitter.com/pyblogsal/status/1271115432590807041)
+
+      [TutorialDB - a small scale OS search engine for programming/dev tutorials](https://tutorialdb-app.herokuapp.com/about/)
+
+    Mid Meet - Hall of Fame:
+
+      Dani Papamaximou - organizer of Django Girls Birmingham and Python Midwest
+
+      [Follow Dani on Twiter](https://twitter.com/DaniQuietNow)
+
+    PyPI highlights:
+
+      Recently wanna try using [Pre-commit](https://pre-commit.com/)
+
+      [HTTPrunner](https://docs.httprunner.org/) HTTP(s) testing framework in Python
+
+    [Listen to MidMeetPy podcast](https://anchor.fm/midmeetpy)
+  date: 2020-06-17
+  author: Cheuk Ting Ho
+
+- title: The Legend of Data - Ep.3 - Pandas basics 2
+  vid: xPOKiPZEoMY
+  tags: The Legend of Data
+  description: |
+    Pandas is a superpower tool to handle data in Python. It lets you read and write from csv, xlsx and other file formats; lets you change the structure of the data, change the data types, aggregate data, joining data etc. In this episode, continue exploring what pandas can do can explain in further details for some common pandas operations.
+
+    If you have any questions or any suggestions about which Python or Data Science topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+
+    You can get the slide deck [here](https://slides.com/cheukting_ho/legend-data-pandas1/). The notebook that I used can be found [here](https://github.com/Cheukting/legend_data).
+  date: 2020-06-15
+  author: Cheuk Ting Ho
+
+- title: Python Zero to Hero - Ep.11 - Python property-based testing
+  vid: 7S8clMr98dY
+  tags: Python Zero to Hero
+  description: |
+    We have been trying out some property-based tests in Python with Hypothesis. We tried to test on real functions in popular Python libraries. If you have any questions or any suggestions about which Python topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+
+    You can get the slide deck [here](https://slides.com/cheukting_ho) and the example code and homework form [GitHub here](https://github.com/Cheukting/python02hero). Ask questions at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+  date: 2020-06-14
+  author: Cheuk Ting Ho
+
+- title: World of WoqlCraft - Ep.11 TerminusDB new Python client updates and new woql.py syntax
+  vid: zj0iNXeRCtA
+  tags: World of WoqlCraft
+  description: |
+    Today is a short episode that I am giving you a preview of the new Python Client for TerminusDB. It is more pythonic than the last version and let you to have more options in constructing your WOQL objects. Best of all, it works with the most powerful TerminusDB 2.0.
+
+    Find the source code from our [tutorial repo](https://github.com/terminusdb/terminus-tutorials).
+
+    Join the TerminusDB community at [Discord](https://discord.gg/Gvdqw97)
+  date: 2020-06-05
+  author: Cheuk Ting Ho
+
+- title: Mid Meet Py - Ep.11 - Interview with David Lord
+  vid: rgIuaCws25k
+  tags: Mid Meet Py
+  description: |
+    PyChat:
+
+      [PyData Festerval Amsterday](https://www.eventbrite.com/e/pydata-festival-amsterdam-2020-tickets-105751621948)
+
+      [Zen of Python song!](https://twitter.com/pumpichank/status/1264340179902332928)
+
+      [pyOpenSci community call today](https://twitter.com/pyOpenSci/status/1270004163234144257)
+
+      [Python Packaging Guide](https://dev.to/shyams1993/python-packaging-guide-25i6)
+
+      [PyLadies Call for Speakers](https://twitter.com/PyLadiesDub/status/1269963641518018568)
+
+      [Python Ireland call for speakers](https://twitter.com/PythonIreland/status/1268607953080397825)
+
+
+    Mid Meet - Hall of Fame:
+
+      David Lord - lead dev Flask and related libraries on @PalletsTeam. Meetup organizer @SanDiegoPython
+
+      [Follow David on Twitter](https://twitter.com/davidism)
+
+
+    PyPI highlights:
+
+      [Make yourself a cartoon](https://github.com/minivision-ai/photo2cartoon) - They use this: [face-alignment](https://pypi.org/project/face-alignment/)
+
+      Create representations of large DS - [datashader](https://datashader.org/)
+
+    [Listen to MidMeetPy podcast](https://anchor.fm/midmeetpy)
+  date: 2020-06-10
+  author: Cheuk Ting Ho
+
+- title: The Legend of Data - Ep.2 - Pandas basics 1
+  vid: P2oz8o4-nJs
+  tags: The Legend of Data
+  description: |
+    Pandas is a superpower tool to handle data in Python. It lets you read and write from csv, xlsx and other file formats; lets you change the structure of the data, change the data types, aggregate data, joining data etc. In this episode, we will talk a bit about the internal of pandas DataFrames and some basic operations for reading and writing csvs, slicing DataFrames and changing data types.
+
+    If you have any questions or any suggestions about which Python or Data Science topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+
+    You can get the slide deck [here](https://slides.com/cheukting_ho/legend-data-pandas1/). The notebook that I used can be found [here](https://github.com/Cheukting/legend_data).
+  date: 2020-06-08
+  author: Cheuk Ting Ho
+
+- title: Python Zero to Hero - Ep.10 - More Pytest and Mock
+  vid: IlL-tNtQo3Q
+  tags: Python Zero to Hero
+  description: |
+    Today we go deeper into pytest, try using fixture, mark xfail, skip and parametrize. We also look into how to monkey patch an object with mock.patch decorators. If you have any questions or any suggestions about which Python topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+
+    You can get the slide deck [here](https://slides.com/cheukting_ho) and the example code and homework form [GitHub here](https://github.com/Cheukting/python02hero). Ask questions at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+  date: 2020-06-07
+  author: Cheuk Ting Ho
+
+- title: World of WoqlCraft - Ep.10 Tour on TerminusDB 2.0 and the new version of WOQL
+  vid: 7TNyMSVZ9-A
+  tags: World of WoqlCraft
+  description: |
+    We had a tour at the newly release of TerminusDB 2.0, we have a play at the time-travel feature, going back and forth different commits, making a new branch. We also try using WOQL.js with the new console.
+
+    Find the source code from our [tutorial repo](https://github.com/terminusdb/terminus-tutorials).
+
+    Join the TerminusDB community at [Discord](https://discord.gg/Gvdqw97)
+  date: 2020-06-05
+  author: Cheuk Ting Ho
+
+- title: Mid Meet Py - Ep.10 - Interview with Adam Johnson
+  vid: 2egOgUWu378
+  tags: Mid Meet Py
+  description: |
+    PyChat:
+
+        [PSF support diversity, BlackLivesMatters](https://twitter.com/ThePSF/status/1267591714925133825)
+
+        [YSYS will be hosting an event bringing together black community leaders + allies in tech to discuss how we can mobilise and rebuild] (https://twitter.com/ThisIsYSYS/status/1267393576708734976 but BLM related)
+
+        [EuroPython Schedule is out](https://ep2020.europython.eu/schedule/)
+
+        [AnacondaCon Starting today](https://anacondacon.io/)
+
+        [Django security releases, update ASAP](https://www.djangoproject.com/weblog/2020/jun/03/security-releases/)
+
+    Py Hall of Fram:
+
+        Adam Johnson, Django technical board member
+
+        Follow Adam on twitter [@AdamChainz](https://twitter.com/AdamChainz)
+
+        [Get Adam's book](https://gumroad.com/l/suydt)
+
+    PyPI Highlight:
+
+        Cheuk's choice - [sidetable](https://pbpython.com/sidetable.html) - Create Simple Summary Tables in Pandas
+
+        Adam's choice - [time-machine](https://adamj.eu/tech/2020/06/03/introducing-time-machine/)
+
+        Lais's choice - [pillow](https://pypi.org/project/Pillow/)
+
+    [Listen to MidMeetPy podcast](https://anchor.fm/midmeetpy)
+  date: 2020-06-03
+  author: Cheuk Ting Ho
+
+- title: The Legend of Data - Ep.1 - Introduciton to Jupyter notebook
+  vid: KvKigk0oqQA
+  tags: The Legend of Data
+  description: |
+    Jupyter notebook is one of the most popular IDE for data scientists. As the first episode of this new data science series, we will have an introduction to this open-source tool, how it works and how to use it efficiently. We also talked about what we will cover in the upcoming tutorials in this series. If you have any questions or any suggestions about which Python or Data Science topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+
+    You can get the slide deck [here](https://slides.com/cheukting_ho/legend-data-intro/).
+  date: 2020-06-01
+  author: Cheuk Ting Ho
+
+- title: Python Zero to Hero - Ep.9 - Strings and Regex
+  vid: eCwszdgLw88
+  tags: Python Zero to Hero
+  description: |
+    String operations are very useful in handling data, either input from a file or by the user. Today we have covered how to use the strings methods and the re module in Python to manipulate strings. If you have any questions or any suggestions about which Python topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+
+    You can get the slide deck [here](https://slides.com/cheukting_ho) and the example code and homework form [GitHub here](https://github.com/Cheukting/python02hero). Ask questions at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+  date: 2020-05-31
+  author: Cheuk Ting Ho
+
+- title: Mid Meet Py - Ep.9 - Interview with Ian Ozsvald
+  vid: KZkpJewAUL0
+  tags: Mid Meet Py
+  description: |
+    PyChat:
+
+      [Free Python DS book (online)](https://jakevdp.github.io/PythonDataScienceHandbook/) Intro to NumPy, Matplotlib & sci-kit learn
+
+      [CfP for FlaskCon is open!](https://flaskcon.com/)
+
+      [Way to have more diverse board members is to have diverse voters](https://twitter.com/NaomiCeder/status/1264025804125716482) - become a voting member of the PSF
+
+      [Test pip’s alpha resolver](http://www.ei8fdb.org/thoughts/2020/05/test-pips-alpha-resolver-and-help-us-document-dependency-conflicts/)
+
+      [New pymsbuild for windows people](https://pypi.org/project/pymsbuild/)
+
+      [Workshop online PythonIreland](https://www.meetup.com/pythonireland/events/270568029/)
+
+    Mid Meet - Hall of Fame:
+
+      Ian Ozsvald - co-founder of PyData London
+
+      Follow Ian on Twitter [@ianozsvald](https://twitter.com/ianozsvald)
+
+    PyPI highlights:
+
+      [Tesseract OCR text localization & detection](https://pypi.org/project/pytesseract/)
+
+      [Shed](https://github.com/Zac-HD/shed) - black plus autoflake plus isort plus pyupgrade plus some custom fixers
+
+    [Listen to MidMeetPy podcast](https://anchor.fm/midmeetpy)
+  date: 2020-05-27
+  author: Cheuk Ting Ho
+
+- title: Web Surgery - Ep.8 - Final fine tuning of my website
+  vid: 4vweAkbAxUI
+  tags: Web Surgery
+  description: |
+    This is the last episode of Web Surgery as I will dedicate this time every week to start a new series. Today we gonna quickly wrap up the series with a little improvement of my website. Thank you for supporting this series. Let me know what you would like to learn and any suggestions at my [Twitch](https://www.twitch.tv/cheukting_ho).
+
+  date: 2020-05-25
+  author: Cheuk Ting Ho
+
+- title: Python Zero to Hero - Ep.8 - Decorators
+  vid: TKlxV7_uyB0
+  tags: Python Zero to Hero
+  description: |
+    Today we cover what is a decorator and the basics of how to write a decorator. We also cover using the property decorator to write some getters and setters. If you have any questions or any suggestions about which Python topics to cover, please leave your comment at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+
+    You can get the slide deck [here](https://slides.com/cheukting_ho/python-decorators/) and the example code and homework form [GitHub here](https://github.com/Cheukting/python02hero). Ask questions at my [Twitch channel](https://www.twitch.tv/cheukting_ho)
+
+    Also, check out Naomi Ceder's [Twitch channel](https://www.twitch.tv/nceder) for more beginner's (slightly more advance) tutorial.
+  date: 2020-05-24
+  author: Cheuk Ting Ho
+
+- title: World of WoqlCraft - Ep.9 Graph visualisation of Game of Thrones Character Relations
+  vid: 4lYzEcMh9F8
+  tags: World of WoqlCraft
+  description: |
+    Continue with what we have done last week, we will do some graph visualisations with TerminusDB console to create a knowledge graph of the characters relations in the Game of Thrones.
+
+    Find the source code from our [tutorial repo](https://github.com/terminusdb/terminus-tutorials).
+
+    Join the TerminusDB community at [Discord](https://discord.gg/Gvdqw97)
+  date: 2020-05-22
+  author: Cheuk Ting Ho
+
+- title: Mid Meet Py - Ep.8 - Interview with Tania Allard
+  vid: wkLGRy1RqGI
+  tags: Mid Meet Py
+  description: |
+    (Sorry for the technical difficulties, we failed to capture Lais on the call today)
+
+    PyChat:
+
+    [Python Conference for web devs 17th to 19th June](https://2020.pythonwebconf.com/)
+
+    [PyCon DE cancelled this year, see you next year](https://twitter.com/PyConDE/status/1261303281961381888)
+
+    [PyCon Africa 2020 Online](https://africa.pycon.org/)
+
+    [Sci-kit learn bugfix release 0.23.1 is out](https://twitter.com/scikit_learn/status/1262829951654473729)
+
+    [Release of the `tzdata` package](https://twitter.com/pganssle/status/1262791115230662657)
+
+    Mid Meet - Hall of Fame:
+
+    Tanya Allard, PSF Fellow, Developer Advocate at Microsoft
+
+    [Follow Tania on Twitter](https://twitter.com/ixek)
+
+    PyPI highlights:
+
+    [Helium](https://github.com/mherrmann/selenium-python-helium) - Python library for web automation (like Selium but lighter)
+
+    [Hypothesis](https://hypothesis.readthedocs.io/en/latest/index.html) is actually cool.
+
+    [Listen to MidMeetPy podcast](https://anchor.fm/midmeetpy)
+  date: 2020-05-20
+  author: Cheuk Ting Ho
+
+- title: Git for Absolute Beginners
+  vid: BVJhobhEZPM
+  description: |
+    If you are learning how to code, learning how to use git would become very useful and it's a tool that almost all software developer use. In this tutorial, I will clear some concepts for using git, how git works and will point you to a hands-on exercise where you can use git to make your first pull request.
+
+    [Link to the sides](https://slides.com/cheukting_ho/what-is-git).
+
+    [Link to the exercise](http://bit.ly/1st_pr).
+  date: 2020-05-19
+  author: Cheuk Ting Ho
+
+- title: Python Zero to Hero - Ep.7 - Unit testing with Pytest
+  vid: K_PN5sfaG-k
+  tags: Python Zero to Hero
+  description: |
+    Update: the reason why I cannot install pytest in my environment is that I have installed conda yesterday and it messed up the path. Somehow conda overrides the pyenv paths so they cannot exist together. You can either keep it and use `python -m pytest` every time instead of `pytest` or, like me, remove conda so it works again.
+
+    Testing is very important in software development. Unit testing is the smallest building block of your tests. It locks a unit of your code in place so making debugging much easier. Today we will use Pytest, a popular testing library in Python, to do some unit testing. We only cover the basics today and if you are interested to learn more about testing using pytest or other libraries, please leave your comment at my [Twitch channel](https://t.co/7sqvTilzF1?amp=1)
+
+    You can get the slide deck [here](https://slides.com/cheukting_ho/python-pytest/) and the example code and homework form [GitHub here](https://github.com/Cheukting/python02hero). Ask questions at my [Twitch channel](https://t.co/7sqvTilzF1?amp=1)
+
+    Also, check out Naomi Ceder's [Twitch channel](https://t.co/hXhTu0ZIG8?amp=1) for more beginner's (slightly more advance) tutorial.
+  date: 2020-05-17
+  author: Cheuk Ting Ho
+
+- title: World of WoqlCraft - Ep.8 Create Game of Thrones Graph within an Hour
+  vid: lEIBauxSHHc
+  tags: World of WoqlCraft
+  description: |
+    Inspired by the famous Game of Thrones example of Neo4j, I tried to create the same graph (more or less) with just a script of Python using WOQL and TerminusDB within an hour, I call it speed coding. Did I succeed?
+
+    Find the source code from our [tutorial repo](https://github.com/terminusdb/terminus-tutorials).
+
+    Join the TerminusDB community at [Discord](https://discord.gg/Gvdqw97)
+  date: 2020-05-15
+  author: Cheuk Ting Ho
+
+- title: Nintendo Switch (Animal Crossing Edition) Unboxing
+  vid: -UpidC5aFqc
+  description: |
+    Update: you cannot transfer your Animal Crossing island across Switches, I am considering starting a new island with my extra copy of the game.
+
+    I am so excited to finally have the Animal Crossing Edition of Nintendo Switch. I really want to stream playing games with friends. The design of the Switch is so adorable. Want to follow my coding stream (mainly in Python) and potential gaming stream? Follow me on [Twitch](https://www.twitch.tv/cheukting_ho).
+  date: 2020-05-14
+  author: Cheuk Ting Ho
+
+- title: Mid Meet Py - Ep.7 - Interview with Nicolas Demarchi
+  vid: aso59ZWxdGA
+  tags: Mid Meet Py
+  description: |
+    PyChat:
+
+      [EP published their 1st set of talks](https://ep2020.europython.eu/events/sessions/)
+
+      [CfP still open for Various time zones (anyone can apply)](https://blog.europython.eu/post/617552560206872576/europython-2020-second-call-for-proposals-cfp)
+
+      [Naomi won't run for re-election for the chair of the PSF](https://twitter.com/NaomiCeder/status/1259301269694447618)
+
+      [PyCon Us Hatchery Mentoried sprint this saturday](https://us.pycon.org/2020/hatchery/mentoredsprints/)
+
+    Hall of Fame:
+      Interview with Nicolas Demarchi
+
+      [Follow him on LinkedIn](https://www.linkedin.com/in/nicolasdemarchi/?locale=en_US)
+
+      [Follow him on Twitter](https://twitter.com/gilgamezh)
+
+    PyPI highlights:
+
+      [Events](https://pypi.org/project/Events/), a library that works as the Observer Design Pattern (or the Moderator, depending on your case).
+
+      [Discord.py](https://discordpy.readthedocs.io/en/latest/) - perfect if you wanna build a Discord bot.
+
+    [Listen to MidMeetPy podcast](https://anchor.fm/midmeetpy)
+
+  date: 2020-05-13
+  author: Cheuk Ting Ho
+
+- title: Web Surgery - Ep.7 - Authentication for Netlify CMS on GitHub
+  vid: hs3KCTaFtWM
+  tags: Web Surgery
+  description: |
+    This episode we deploy a Heroku dyno for the Auth for GitHub, but before that, we set up an app on GitHub to grant access to the GitHub repo. This is needed as the Netlify CMS will send a PR to that repo. In the future, we may add more functionality to our wishlist website, tell me what you would like to suggest at my [Twitch](https://www.twitch.tv/cheukting_ho).
+
+    The code is work in progress but if you want to check it out, it will be uploaded and updated in [this repo](https://github.com/Cheukting/animal-crossing-wishlist)
+
+  date: 2020-05-11
+  author: Cheuk Ting Ho
+
+- title: Python Zero to Hero - Ep.6 - Python Classes and Instances
+  vid: tnHxNMSRwAA
+  tags: Python Zero to Hero
+  description: |
+    Python classes provide functionalities for Object-Oriented Programming. Today we explore how to write classes in Python, clear some concepts of scopes. We learn by purposely breaking some code.
+
+    You can get the slide deck [here](https://slides.com/cheukting_ho/python-classes#/) and the example code and homework form [GitHub here](https://github.com/Cheukting/python02hero). Ask questions at my [Twitch channel](https://t.co/7sqvTilzF1?amp=1)
+
+    Also, check out Naomi Ceder's [Twitch channel](https://t.co/hXhTu0ZIG8?amp=1) for more beginner's (slightly more advance) tutorial.
+  date: 2020-05-10
+  author: Cheuk Ting Ho
+
+- title: World of WoqlCraft - Ep.7 My Frist Graph Visualization with TerminusDB
+  vid: SedqCtFNyHg
+  tags: World of WoqlCraft
+  description: |
+    This episode is a beginner version of World of Woql Craft (we want more people to get started). It is for people who have not used TerminusDB and WOQL before. We start form how to download TerminuDB, creating a schema, loading csv data, querying to customizing the graph view on TerminusDB console.
+
+    [Visit our blog](https://terminusdb.com/blog/2020/01/14/my-first-terminusdb-graph-visualisation-bike-share-data/) for a text version of this tutorial.
+
+    Find the source code from our [tutorial repo](https://github.com/terminusdb/terminus-tutorials).
+
+    Join the TerminusDB community at [Discord](https://discord.gg/Gvdqw97)
+  date: 2020-05-08
+  author: Cheuk Ting Ho
+
+- title: Mid Meet Py - Ep.6 - Interview with Steve Dower
+  vid: oN0FZ1B4pwg
+  tags: Mid Meet Py
+  description: |
+    PyChat:
+
+    [Pydata UK joint meetup with multiple chapters in UK yesterday, awesome talks about TensorFlow Probability and How to expend Pandas capabilities](https://www.meetup.com/PyData-Manchester/events/270272244/)
+
+    [Global Pydata conference calling for organizing committee](https://twitter.com/dontusethiscode/status/1257907697141329926)
+
+    [PyData Dublin starting with a round of Monday talks from the 18th](https://www.meetup.com/PyDataDublin/)
+
+    [Release of Napari `0.3.0` with many new features](https://napari.org/docs/release/release_0_3_0.html)
+
+    [Naomi Ceder is the first keynote speaker announced for EuroPython](https://twitter.com/europython/status/1257680784384831489)
+
+    [Learning aid for Vim](https://vim-adventures.com/) Learn Vim while playing a game
+
+    Py Hall of Frame:
+
+    Interview with Steve Dower, Python tools developer at Microsoft and core CPython developer
+
+    [Follow Steve on Twitter](https://twitter.com/zooba)
+
+    PyPI Highlight:
+
+    [Napari - fast, interactive, multi-dimensional image viewer for Python](https://github.com/napari/napari)
+
+    [Kedro - a best-practice scaffold for ML and DS pipelines](https://github.com/quantumblacklabs/kedro)
+
+  date: 2020-05-06
+  author: Cheuk Ting Ho
+
+- title: Web Surgery - Ep.6 - Adding Netlify CMS to the website
+  vid: vA0v6qD4DOc
+  tags: Web Surgery
+  description: |
+    This episode we will start to add Netlify CMS so the website. It can easily be done by adding an html and config.yml under admin. It is promising running on localhost but it is not fully working yet because we still have to figure out the Auth for GitHub, also we may add more functionality in the future, tell me what you suggest at my [Twitch](https://www.twitch.tv/cheukting_ho).
+
+    The code is work in progress but if you want to check it out, it will be uploaded and updated in [this repo](https://github.com/Cheukting/animal-crossing-wishlist)
+
+  date: 2020-05-04
+  author: Cheuk Ting Ho
+
+- title: Python Zero to Hero - Ep.5 - Python Functions and Modules
+  vid: zRJn85rsQyw
+  tags: Python Zero to Hero
+  description: |
+    Today we go through a very important thing in Python - functions. I so thought the usage of it and some common mistakes that beginners could make. Also, we touch on importing modules - either it is a standard library or another python scripts.
+
+    You can get the slide deck [here](https://bit.ly/PyFunction) and the example code and homework form [GitHub here](https://github.com/Cheukting/python02hero). Ask questions at my [Twitch channel](https://t.co/7sqvTilzF1?amp=1)
+
+    Also, check out Naomi Ceder's [Twitch channel](https://t.co/hXhTu0ZIG8?amp=1) for more beginner's (slightly more advance) tutorial.
+  date: 2020-05-03
+  author: Cheuk Ting Ho
+
+- title: World of WoqlCraft - Ep.6 recap and wrap up Schame.org schema, start OpenFlights.org data
+  vid: M2mECiPW5Oc
+  tags: World of WoqlCraft
+  description: |
+    We finish off the Schema.org schema by recapping what we have done in the past weeks. Then we started a new project with OpenFlights.org data. We started with a fairly simple set of data and aim to build some application form there.
+
+    Find the source code from our [tutorial repo](https://github.com/terminusdb/terminus-tutorials).
+
+    Join the TerminusDB community at [Discord](https://discord.gg/Gvdqw97)
+  date: 2020-05-01
+  author: Cheuk Ting Ho
+
+- title: Mid Meet Py - Ep.5 - Interview with Naomi Ceder
+  vid: 2Mqp_sja3AU
+  tags: Mid Meet Py
+  description: |
+    PyChat (news in the community):
+
+      PyCon Hatchery Programs looks for attendees and mentors:
+
+      [Data Workshops for Beginners](https://us.pycon.org/2020/hatchery/beginnersdata/)
+
+      [Mentored Sprints](https://us.pycon.org/2020/hatchery/mentoredsprints/)
+
+      Remote Python Pizza surprise people that online conference does works!
+
+        * Great speaker lineup
+
+        * Chat on Discord is amazing
+
+        * Hiccups with YouTube Streaming
+
+        * 2 mins lightning talks
+
+        * After party till 1am !!!!!
+
+      [Python 3.9a6 is out!](https://twitter.com/gvanrossum/status/1255164435502489600)
+
+      [Harvard is offering free courses](https://online-learning.harvard.edu/catalog?keywords=&subject%5B%5D=3&paid%5B1%5D=1&max_price=&start_date_range%5Bmin%5D%5Bdate%5D=&start_date_range%5Bmax%5D%5Bdate%5D=)
+
+    Meet Hall of Fame:
+
+      Interview with Naomi Ceder, chair of the Python Software Foundation, co-founder of TransCode
+
+      [Follow Naomi on Twitter](https://twitter.com/NaomiCeder)
+
+      [Check out her twitch channel](https://t.co/wJ0PDZFTmN?amp=1) for tutorials every Friday.
+
+    IDE showcase for Python with Lais:
+
+      Atom / PyCharm / VSCode / Vim / Sublime etc
+  date: 2020-04-29
+  author: Cheuk Ting Ho
+
+- title: Web Surgery - Ep.5 - Updating the look of the Animal Crossing Item Wishlist Website
+  vid: L5xCFcNNyw8
+  tags: Web Surgery
+  description: |
+    Continue with the last episode, we make more changes to the look of the website: fix the pictures of the items and icons of the social media. We have more or less got a website that we want - we may add more functionality in the future, tell me what you suggest at my [Twitch](https://www.twitch.tv/cheukting_ho). We will be ready to add the Netlify CMS to our website next time.
+
+    I used the [Turnip Exchange](https://turnip.exchange/) to play with strangers online. Also, [Nookazon](https://nookazon.com/) is "Amazon" for Animal Crossing, we may also use it to find the items that we want.
+
+    The code is work in progress but if you want to check it out, it will be uploaded and updated in [this repo](https://github.com/Cheukting/animal-crossing-wishlist)
+
+  date: 2020-04-27
+  author: Cheuk Ting Ho
+
+- title: Python Zero to Hero - Ep.4 - Python Control Flow (if, else, loop)
+  vid: REVfLh9wD_c
+  tags: Python Zero to Hero
+  description: |
+    We got one step closer to writing a Python program. Learning how to branch out which path for the program to take base on conditions using if-else, we also learn writing loops so the program can do things over and over again with slight variation.
+
+    You can get the slide deck [here](https://bit.ly/PyControlFlow) and the example code and homework form [GitHub here](https://github.com/Cheukting/python02hero). Ask questions at my [Twitch channel](https://t.co/7sqvTilzF1?amp=1)
+
+    Also, check out Naomi Ceder's [Twitch channel](https://t.co/hXhTu0ZIG8?amp=1) for more beginner's (slightly more advance) tutorial.
+  date: 2020-04-26
+  author: Cheuk Ting Ho
+
+- title: World of WoqlCraft - Ep.5 load data into Schame.org schema
+  vid: D604sGeeveE
+  tags: World of WoqlCraft
+  description: |
+    We try to put the Schema.org schema that we built into action. However, I discovered there are a few problems with the schema and we fixed that. We scrape the microdata form the [event page](http://events.terminusdb.com/london/2020/02/11/london-1st-graph.html) of our past meetup and put them into the database with our Schema.org schema.
+
+    Find the source code from our [tutorial repo](https://github.com/terminusdb/terminus-tutorials).
+
+    Join the TerminusDB community at [Discord](https://discord.gg/Gvdqw97)
+  date: 2020-04-24
+  author: Cheuk Ting Ho
+
+- title: Mid Meet Py - Ep.4 - Interview with Michael Foord
+  vid: OYOUlZoqSsU
+  tags: Mid Meet Py
+  description: |
+    PyChat (news in the community):
+
+      [Farewell to Oier Echaniz](https://twitter.com/acpyss/status/1251193690183348225)
+
+      [Pyladies Dub meetup 19th May](https://twitter.com/PyLadiesDub/status/1252162609446629376)
+
+      [Python in Astronomy hackdays kick off at midnight tonight BST (23rd & 24th) April - all welcome!](https://twitter.com/pythoninastro/status/12501441027940433947)
+
+      [New Sponsorship Program for Python Packaging](https://pyfound.blogspot.com/2020/04/sponsoring-python-packaging.html)
+
+      [Ticket sales for EuroPython 2020 Online have started](https://blog.europython.eu/post/615992284837756928/europython-2020-ticket-sales-started)
+
+    Meet Hall of Fame:
+
+      Interview with Michael Foord, Python Core Developer, creator of Iron Python and Mock module
+
+      [Follow Michael on Twitter](https://twitter.com/voidspace)
+
+      [Check out his website](https://agileabstractions.com/)
+
+    PyPI highlight:
+
+      [Fades - a library to manage your virtual Envs](https://fades.readthedocs.org)
+
+
+      [Jupyter-require - Let you run JavaScript, plug-in to Jupyter notebook](https://github.com/CermakM/jupyter-require)
+  date: 2020-04-22
+  author: Cheuk Ting Ho
+
+- title: Web Surgery - Ep.4 - Start of the Animal Crossing Item Wishlist Website
+  vid: jGQhNt-a20g
+  tags: Web Surgery
+  description: |
+    This episode is the start of our Animal Crossing Item Wishlist Website project. I started to copy my website and change it so anyone can have their own item wishlist. Within 1 hour we have changed some of the components in Jekyll templates to suit our need. We will continue next week.
+
+    We will be using the pictures and information on Animal Crossing Fandom wiki page - [list of all funitures](https://animalcrossing.fandom.com/wiki/Furniture_(New_Horizons)).
+
+    The code is work in progress but if you want to check it out, it will be uploaded and updated in [this repo](https://github.com/Cheukting/animal-crossing-wishlist)
+
+    I am thinking about doing 1.5 hours starting next week so we can get this project done quicker. Please leave any comments and thoughts in the panels of my [Twitch channel](https://www.twitch.tv/cheukting_ho) make sure to follow me to catch me live on more coding and Python contents.
+  date: 2020-04-20
+  author: Cheuk Ting Ho
+
+- title: Python Zero to Hero - Ep.3 - Python Basics 2 (bool, list, dict)
+  vid: 7DDYTmMk1jk
+  tags: Python Zero to Hero
+  description: |
+    Today we learnt another 3 types of Python objects: Boolean (bool), List (list) and Dictionary (dict). I also explained a bit about mutability and hashable in Python.
+
+    You can get the slide deck [here](https://bit.ly/PythonBasics2) and the example code and homework form [GitHub here](https://github.com/Cheukting/python02hero). Ask questions at my [Twitch channel](https://t.co/7sqvTilzF1?amp=1)
+
+    Also, check out Naomi Ceder's [Twitch channel](https://t.co/hXhTu0ZIG8?amp=1) for more beginner's (slightly more advance) tutorial.
+  date: 2020-04-19
+  author: Cheuk Ting Ho
+
+- title: World of WoqlCraft - Ep.4 we have built our schema
+  vid: dywhlFSWKig
+  tags: World of WoqlCraft
+  description: |
+    Finally we finish building the whole schema. We put the multiple domains and range of the properties into a subclass of a single domain and properties so we can build the properties of the graph properly.
+
+    Find the source code from our [tutorial repo](https://github.com/terminusdb/terminus-tutorials).
+  date: 2020-04-17
+  author: Cheuk Ting Ho
+
+- title: Exciting Mac mini Unboxing
+  vid: 39sIYmIqZGo
+  description: |
+    Big thanks to [TerminusDB](https://terminusdb.com/)!
+
+    With the 6-core i7 Mac mini, hopefully, we will have better streaming and tutorials coming! Watch me on [Twitch](https://www.twitch.tv/cheukting_ho) for my tutorials including World of WoqlCraft tutorial every Friday at 4pm UK time and Python beginner tutorials every Sunday at 1pm UK time. Follow TerminusDB [here](https://www.youtube.com/channel/UC5kZt8pP-FM0u-R0BQr78YA) for weekly Webnibar that I hosted and knowledge-rich contents.
+  date: 2020-04-15
+  author: Cheuk Ting Ho
+
+- title: Mid Meet Py - Ep.3
+  vid: srCjYJPFRM4
+  tags: Mid Meet Py
+  description: |
+    [EuroPython talk voting started](https://ep2020.europython.eu/events/talk-voting/)
+
+    [Python Pizza](https://remote.python.pizza/) Speaker line up is great!
+
+    Free Django beginner course: <https://morioh.com/p/71bf7795a878>
+
+    [PyCon UK has been cancelled](https://twitter.com/PyConUK/status/1249351345003528192)
+
+    [EffectiveQuadratures got support from NUMFocus](https://twitter.com/EQuadratures/status/1249795188857470976)
+
+    [PyAmsterdam flying software Circus](https://www.meetup.com/Software-Circus/events/270038344/) - talking about FastAPI lib
+
+    [Python IE meetup next Wed 22nd April 2020](https://www.meetup.com/pythonireland/events/270053115/)
+
+    PyPI Highlight:
+
+    EffectiveQuadratures - <https://www.effective-quadratures.org/>
+
+    SimPy - discrete-event simulation library - <https://simpy.readthedocs.io/en/latest/>
+  date: 2020-04-15
+  author: Cheuk Ting Ho
+
+- title: Web Surgery - Ep.3 - Web tracking and cookie consensus banner
+  vid: u4Yhx68mbZA
+  tags: Web Surgery
+  description: |
+    Today I added a GDPR compliance web tracking to my website. If you are using another tracking service (e.g. Google Analytics) that use cookies, I will also show you how to add a banner to get visitors' consensus.
+
+    Web tracking service that I use: [Fathom Analytics](https://usefathom.com/ref/W4UI50)
+
+    This site to download the cookie consent banner: [osano.com](https://www.osano.com/cookieconsent/download/)
+
+    I got the JavaScript for clearing all cookies from this [Stackoverflow thread](https://stackoverflow.com/a/33366171)
+  date: 2020-04-13
+  author: Cheuk Ting Ho
+
+- title: Python Zero to Hero - Ep.2 - Python Basics (int, float, str)
+  vid: GZx4go3ybsE
+  tags: Python Zero to Hero
+  description: |
+    Today we learnt 3 types of Python objects: Integer (int), Decimal Numbers (float) and Strings (str). With the help of some built-in functions we can write very simple Python programs.
+
+    You can get the slide deck [here](https://bit.ly/PythonBasics1) and the example code form [GitHub here](https://github.com/Cheukting/python02hero).
+  date: 2020-04-12
+  author: Cheuk Ting Ho
+
+- title: World of WoqlCraft - Ep.3 finish off the type objects
+  vid: L2DN_he0l7g
+  tags: World of WoqlCraft
+  description: |
+    Finish building the type object structures in the schema, including the SubClassOf relations.
+
+    Find the source code from our [tutorial repo](https://github.com/terminusdb/terminus-tutorials).
+  date: 2020-04-10
+  author: Cheuk Ting Ho
+
+- title: Mid Meet Py - Ep.2
+  vid: 3_5qlAiPzZY
+  tags: Mid Meet Py
+  description: |
+    [PyCon US go online](https://python.us19.list-manage.com/track/click?u=5697f493c3a48994f504d4deb&id=e8f98ba7ce&e=01fe521e01)! Subscribe to their [YouTube channel to catch all the talks](https://python.us19.list-manage.com/track/click?u=5697f493c3a48994f504d4deb&id=8535f39b4c&e=01fe521e01)
+
+    PyLadies also has [YouTube Channel](https://www.youtube.com/c/PyLadies), [Sign up for membership](https://t.co/L7Dsrmx7Xs?amp=1)
+
+    Python Ireland's 1st meetUp is tonight talking about [App Performance Monitoring in Python](https://www.meetup.com/pythonireland/events/fnzvknybcgblb/
+    ).
+
+    PyCon Australia and PyCon Africa are also going online, details to be announced.
+
+    [Scikit-image join NUMFocus!](https://numfocus.salsalabs.org/numfocusnewsletter_december2019_copy1_copy1_copy1?wvpId=1f958e36-9e22-4880-9ed6-8ce75d6596f9)
+
+    PyPI Highlight:
+
+    Foxdot  - Make music with Python - <https://foxdot.org/>
+
+    FastAPI - a high-performance framework, easy to learn, and fast to code - <https://fastapi.tiangolo.com>
+  author: Cheuk Ting Ho
+
+- title: Web Surgery - Ep.2 - using gulp pipeline for the css build
+  vid: KpGqIzD-CzI
+  tags: Web Surgery
+  description: |
+    We continue to work on my website. Introducing Gulp.js, to speed up the Jekyll build by using Gulp to lint and prebuild the css (as well as the js scripts). Gulp will watch and automatically build a minified version of the css and js scripts when there are changes in the source files.
+
+    (p.s. sorry for the abrupt end, the internet got cut off almost at the end of the streaming and you have not missed anything important really)
+  date: 2020-04-06
+  author: Cheuk Ting Ho
+
+- title: Python Zero to Hero - Ep.1 - get your Python setup
+  vid: lVjWSugPHsY
+  tags: Python Zero to Hero
+  description: |
+    Today we start our Python journey. Start setting your Python coding environment. I tried to explain as detail as possible for you to understand how your Pyhton got installed and information about Python and related software packages.
+
+    You can grab the slide deck [here](https://bit.ly/PythonSetup).
+  date: 2020-04-05
+  author: Cheuk Ting Ho
+
+- title: World of WoqlCraft - Ep.2 continue crafting schema
+  vid: 9lWxdcU1DiE
+  tags: World of WoqlCraft
+  description: |
+    We tried to continue building the schema, only being brutally ended by my poor internet connection.
+
+    Find the source code from our [tutorial repo](https://github.com/terminusdb/terminus-tutorials).
+  date: 2020-04-04
+  author: Cheuk Ting Ho
+
+- title: Mid Meet Py - Ep.1
+  vid: L0TsE1DmBFo
+  tags: Mid Meet Py
+  description: |
+    In this episode, we chat about:
+
+    Pyjamas - online conference [recruiting organisers](https://forms.gle/i6SWKT8C4yDD1pKi7)
+
+    CfP for Remote Python Pizza [ends on the 6th April](https://remote.python.pizza/)
+
+    [EuroPython goes online](https://blog.europython.eu/post/614102095419850752/europython-2020-online-conference-from-july-23-26)
+
+    [First virtual meetup for PyCon IE](https://www.meetup.com/pythonireland/events/fnzvknybcgblb/)
+
+    Lais will be speaking at [PyAmsterdam](https://www.meetup.com/PyAmsterdam/events/269773330/)
+
+    PyPI Highlights - [Extruct](https://github.com/scrapinghub/extruct)
+
+    PyPI Highlights - [Delorean](https://github.com/myusuf3/delorean)
+  date: 2020-04-01
+  author: Cheuk Ting Ho
+
+- title: Web Surgery - Ep.1 custom Jekyll Plug-in
+  vid: 5YqlkRN8Nek
+  tags: Web Surgery
+  description: |
+    I wrote Ruby for the first time! With a little bit of Ruby, you can make Jekyll do anything for you. All you need is write your own plug-in. Today we will customize one here: [https://github.com/avillafiorita/jekyll-datapage_gen](https://github.com/avillafiorita/jekyll-datapage_gen)
+
+    Things that I used for my website:
+    [https://github.com/sproogen/modern-resume-theme](https://github.com/sproogen/modern-resume-theme) and
+    [https://github.com/samesies/barber-jekyll](https://github.com/samesies/barber-jekyll)
+  date: 2020-03-30
+  author: Cheuk Ting Ho
+
+- title: How to be Pythonic? Design a Query Language in Python
+  vid: SbmuJevFojg
+  tags:
+    - TerminusDB
+    - PyAmsterdam
+    - Meetup
+  description: |
+    Recorded at "Py.Amsterdam from home! #StayAtHome " 25/03/2020
+  date: 2020-03-29
+  author: Cheuk Ting Ho
+
+- title: World of WoqlCraft - Ep.1 making type opjects
+  vid: CoETjW3Y2f0
+  tags: World of WoqlCraft
+  description: |
+    First episode of World of WoqlCraft! We try to use the type provided form Schema.org to construct our schema objects in [TerminusDB](https://terminusdb.com/) (p.s. sorry my connection got cut off, gonna fix this internet problem soon)
+  date: 2020-03-27
+  author: Cheuk Ting Ho
+
+- title: How to be Pythonic? Design a Query Language in Python
+  vid: Hl7xL7KUrKg
+  description: |
+    We created Python API calls that let you can make queries and manipulate data in our graph database. We thought about what will be best for Pythonistas? What will be the most Pythonic way to do it? (Is it a thing?) Here’s our journey in making WOQLpy and we want to make it useful to you.
+  date: 2020-03-25
+  author: Cheuk Ting Ho
+
+- title: WIP Pyjamas Conf - a 24hr global online Python conference
+  vid: w-RWJqfDiVc
+  description: |
+    Are you disappointed by many conferences being cancelled this year? Fear not! We are organising a 24hr global online Python conference. Do you want to help? We need you! Please [fill in the form here](https://forms.gle/i6SWKT8C4yDD1pKi7)
+  date: 2020-03-24
+  author: Cheuk Ting Ho
+
+- title: Customizing Python Docs Generated by Sphinx
+  vid: oPuHe76NpJk
+  description: |
+    I tried to add customized css to Sphinx for the TerminusDB Python Client. I was not sure that it works, it's a blind let's code.
+  date: 2020-03-23
+  author: Cheuk Ting Ho
+
+- title: Stuffing all Human History in One Knowledge Graph
+  vid: nlMEhj6_Mnc
+  description: |
+    This was the talk that I gave at Open Belgium. It was not recorded so I try to stream it at home. See how we can put the Seshat world history bank into TerminusDB. (sorry about my horrible green screen)
+  date: 2020-03-20
+  author: Cheuk Ting Ho
+
+- title: The Role of 21st Century Technology in Protests
+  vid: 0fXEkvyjHVY
+  tags:
+    - PyConFR
+  description: |
+    PyConFR 2019 - Plénière n°3 / Keynote #3
+  date: 2020-03-19
+  author: Cheuk Ting Ho
+
+- title: Test tutorial - sydicating blog post to dev.to and Medium
+  vid: UFay8F0ykfQ
+  description: |
+    In this tutorial, I am showing you how to syndicate your blog post to dev.to and Medium (sorry about the sound quality at the end, and my background, I am still learning how to do it properly)
+  date: 2020-03-17
+  author: Cheuk Ting Ho
+
+- title: I am telling you 3 things about Chatbot
+  vid: I3WhgWkrq7k
+  tags:
+    - PyConIE
+  description: |
+    Now we can talk to our gadgets as if it’s a real human. It makes you wonder when you chat with the “customer service” online, is that a real person or a robot on the other side? I built a chatbot, and here’s 3 things that I discovered.
+  date: 2020-01-14
+  author: Cheuk Ting Ho
+
+- title: Running An Open Source Project Like A Start Up
+  vid: ZhE-xdJ6V34
+  tags:
+    - PyConDE
+  description: |
+    Not so long ago, I started an open source project - PicknMIx. It feels like running a start up if you are serious about it. Want to know my story? Want to check if you can do it as well? I will tell you.
+  date: 2019-10-09
+  author: Cheuk Ting Ho
+
+- title: Do we have a diversity problem in Python community
+  vid: g68eJwauOww
+  description: |
+    Python community cares about diversity. So do we still have a problem in, especially gender, diversity? We will look at some data and see if there’s a true problem, discuss what the problem may be and how to fix it.
+  date: 2019-09-15
+  author: Cheuk Ting Ho
+
+- title: I am telling you 3 things about Chatbot so you don't have to learn it the hard way
+  vid: wS5PaQ91wes
+  tags:
+    - PyData
+  description: |
+    Now we can talk to our gadgets as if it’s a real human. It makes you wonder when you chat with the “customer service” online, is that a real person or a robot on the other side? I built a chatbot, and here’s 3 things that I discovered.
+  date: 2019-07-13
+  author: Cheuk Ting Ho
+
+- title: If Errol Street Could Talk
+  vid: vksf3ckSpus
+  tags:
+    - PyLondinium
+  description: |
+    Diversity, big deal! As an active members and event organisers (and also on the minority side of the gender) in the Python community, we have alway been concern by the question of - Do we truly have a problem in diversity? Especially, gender diversity. We would like to find out the truth, by data science, and see if we can find a clue why and how we can fix it.
+  date: 2019-06-16
+  author: Cheuk Ting Ho
+
+- title: AI and algorithmic art
+  vid: AKkz4Uq_G1M
+  description: |
+    Some think neural networks are magic boxes, let the computers to have a mind of its own. Beside making classifications and predictions, neural networks have also been used to creating pictures, music, jokes and plays. Can creativity, what seems to make us special, be achieved by these magic boxes?
+  date: 2019-05-03
+  author: Cheuk Ting Ho
+
+- title: Understanding Agent Connections Using NetworkX
+  vid: h_nYy9XEPvY
+  tags:
+    - PyConDE
+  description: |
+    Network analysis is getting more and more attention in Business Intelligence, people hope to get information out of the structure of an organization or a communication network. In this talk, we use the hotel room search requests from travel agents, including online public website, B2C, B2B and B2B2C, to build a relational network among them. By using this network as an example, we demonstrate how insights can be extract by studying network properties.
+  date: 2018-11-05
+  author: Cheuk Ting Ho
+
+- title: Fuzzy Matching Smart Way of Finding Similar Names Using Fuzzywuzzy
+  vid: NRAqIjXaZvw
+  tags:
+    - EuroPython
+  description: |
+    Matching strings should be one of the first natural language processing problem that human encounter since we start use computer to handle data. Unlike numerical value which has an exact logic to compare them, it is very hard to say how alike two strings are for a computer. One may compare them character by character and have an idea of how many characters in the pair of stings are the same. Unfortunately in most application we need computer to perceive strings like we do and therefore we have to use fuzzy matching. Fuzzy matching on names is never straight forward though, the definition of how “difference” of two names are really depends case by case. For example with restaurant names, matching of words like “cafe” “bar” and “restaurant” are consider less valuable then matching of some other less common words. Also, do we consider company names that matches partly (like “Happy Unicorn company” and Happy Unicorn co.”) are the same?
+  date: 2018-08-22
+  author: Cheuk Ting Ho
+
+- title: Deep Learning with Keras
+  vid: a9jLiYk_rzQ
+  tags:
+    - PyLondinium
+  description: |
+    Computers are getting closer to speak like humans. But can we even make them speak in particular ways, like as Trump or Shakespeare? In this hands on talk we will see how this is possible with the latest deep learning techniques combined with word embeddings and other advanced NLP technique.
+  date: 2018-07-12
+  author: Cheuk Ting Ho
+
+- title: Launch Jupyter to the Cloud with Docker and Terraform
+  vid: d96ah9_rx5k
+  tags:
+    - PyConIsrael
+  description: |
+    In this talk, we will use a task: hiring a GPU on Google Cloud Platform to train neural network, as an example to show how an application can be deployed on a cloud platform with Docker and Terraform. The goal is to have Jupyter Notebook running in an environment with Tensorflow (GPU version) and other libraries installed on a Google Compute Engine.
+  date: 2018-07-10
+  author: Cheuk Ting Ho
+
+- title: From Shakespeare to Trump - AI that Talks with Attitude
+  vid: bQ2Qu63SYHw
+  tags:
+    - Meetup
+  description: |
+    One main application of AI (artificial intelligence) is in NLP (natural language processing) which allows the machine to understand neutral languages and learn a lot from the context of texts. With tools like Keras (using Tensorflow as backend) we can build a neutral network with only 3 layers (Embedding, LSTM, Softmax output) in order to "teach" a machine to generate articles, plays or speeches in the style of the training corpus and have lots of fun. Will it be like a Shakespearean actor in one instance and talk like Trump in another? How well is the AI against human in writings now and in the future? How creative could an AI be?
+  date: 2018-03-25
+  author: Cheuk Ting Ho

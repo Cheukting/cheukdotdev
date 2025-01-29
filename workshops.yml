@@ -1,0 +1,100 @@
+- layout: top-middle-link
+  name: PyO3 101 - Writing Python modules in Rust
+  link: https://github.com/Cheukting/py03_101
+  date: 2024-01-01
+  qualification:
+  quote: >
+    In this workshop, we will cover the very basic of using PyO3 - rust library that package rust crates into Python modules. This is the most popular tool in terms of creating Python libraries with Rust.
+  description: | # this will include new lines to allow paragraphs
+
+- layout: top-middle-link
+  name: Workshop about How to Submit a Call for Proposal
+  link: https://github.com/Cheukting/CfP-workshop
+  date: 2019-10-01
+  qualification:
+  quote: >
+    Here is an outline of a 90-minute workshop to encourage the submission of Call for Proposal. This targeted new speakers, especially folks who are underrepresented in the community. Feel free to take and use it to run a workshop yourself.
+  description: | # this will include new lines to allow paragraphs
+
+- layout: top-middle-link
+  name: Let's build a BeeWare app that uses Django
+  link: https://github.com/Cheukting/briefcase-positron-template
+  date: 2019-09-01
+  qualification:
+  quote: >
+    In this workshop, we will go through the basics of building a BeeWare app. However, instead of starting from scratch, we will link it up using Positron with an already working Django app.
+  description: | # this will include new lines to allow paragraphs
+
+- layout: top-middle-link
+  name: PyScript Tutorial
+  link: https://github.com/Cheukting/pyscript-tutorial
+  date: 2019-08-01
+  qualification:
+  quote: >
+    This workshop consists of 3 chapters. In each chapter, by walking through hands-on exercises, we can use PyScirpt to create data visualisations and deploy Sci-Kit learn models, which are some of the most common tasks in data sciences.
+  description: | # this will include new lines to allow paragraphs
+
+- layout: top-middle-link
+  name: Using Numba Effectively
+  link: https://github.com/Cheukting/using-numba
+  date: 2019-07-01
+  qualification:
+  quote: >
+    In this workshop, we gonna go through 3 notebooks (plus an optional NumPy tutorial) to get an idea of the inner working of Numba, try trouble shooting with compilation problems and put them into practice.
+  description: | # this will include new lines to allow paragraphs
+
+- layout: top-middle-link
+  name: Picking What to Watch Next - build a recommendation system
+  link: https://github.com/Cheukting/knn_recommender
+  date: 2019-06-01
+  qualification:
+  quote: >
+    Recommendation algorithms are the driving force of many businesses: e-commerce, personalized advertisement, on-demand entertainment. Computer algorithms know what you like and present you with things that are customized for you. Here we will explore how to do that by building a system ourselves.
+  description: | # this will include new lines to allow paragraphs
+
+- layout: top-middle-link
+  name: Knowledge graph data modelling with TerminusDB
+  link: https://www.credly.com/org/terminusdb/badge/certified-knowledge-graph-data-modeler.1
+  date: 2019-05-01
+  qualification:
+  quote: >
+    Storing data in a tabular format is not always ideal. Taking advantage of strong data in knowledge graphs can make handling complex data structure possible and data visualization easier. In this workshop, you will get all the basics to start modelling data in the terms of triples and building schemas of a knowledge graph.
+  description: | # this will include new lines to allow paragraphs
+
+- layout: top-middle-link
+  name: Shiny App in Python? Bokeh + Jupyter notebook
+  link: https://github.com/jupytercon/2020-Cheukting
+  date: 2019-04-01
+  qualification:
+  quote: >
+    Data scientist love building Shiny apps. It lets you create an interactive dashboard without the complexity of handling javascript or HTML. It also integrates well with other tools for data science as well. If you code in Python and you love Jupyter notebook, I will teach you how to make a “Shiny app” in Jupyter notebook with Python using Bokeh.
+  description: | # this will include new lines to allow paragraphs
+
+- layout: top-middle-link
+  name: Chatbots that know if you are angry
+  link: https://github.com/Cheukting/rasa_workshop
+  date: 2019-03-01
+  qualification:
+  quote: >
+    In this workshop, we will be using Rasa, an open source machine learning framework, to build a chatbot that will ask for an individual's contact details (compliant to GDPR) and for feedback for an event that they may have attended. Feedback will then be analyse for sentiment and reported in a basic web app.
+  description: | # this will include new lines to allow paragraphs
+
+
+- layout: top-middle-link
+  name: Deep Reinforcement Learning Workshop
+  link: https://github.com/Cheukting/rl_workshop
+  date: 2019-02-01
+  qualification:
+  quote: >
+    In this workshop, through exercises, we will learn about (Deep) Reinforcement Learning and how to implement different strategies and train an agent to solve different tasks (or play games) in OpenAI Gym. For the consistency of the environment and make use of a free GPU, we will use Google Colaboratory (Google Account needed)
+  description: | # this will include new lines to allow paragraphs
+
+
+- layout: top-middle-link
+  name: Step into Open Source Contribution - My First PR
+  link: https://slides.com/cheukting_ho/1st_pr
+  date: 2019-01-01
+  qualification:
+  quote: >
+    A step by step guide to making your first pull request (PR) in GitHub. As most open-source projects are hosted on GitHub, it will be the first thing you have to learn if you want to contribute to open-source projects. Also, you will have git setup and learn how to start using git.
+  description: | # this will include new lines to allow paragraphs

@@ -7,14 +7,25 @@ def read_videos_yml():
     with open("videos.yml", "r") as file:
         return yaml.safe_load(file)
 
+def convert_md_to_text(md_text):
+    """
+    Convert markdown text to plain text by removing markdown formatting.
+    :param md_text: Markdown-formatted string.
+    :return: Plain text string.
+    """
+    md_text = re.sub(r"\[", "", md_text)  # Remove opening square brackets
+    md_text = re.sub(r"\]", " ", md_text)  # Replace closing square brackets with a space
+    return md_text
+
 def generate_front_matter(data):
     """
-    Generate a front matter string from a list of dictionaries.
+    Generate a front matter string from a list of dictionaries, converting descriptions to plain text.
     :param data: List of dictionaries.
     :return: A list of YAML strings, each representing the front matter of an item.
     """
     front_matters = []
     for item in data:
+        item["description"] = convert_md_to_text(item["description"])
         front_matter = "---\n" + yaml.dump(item, default_flow_style=False) + "---\n"
         front_matters.append(front_matter)
     return front_matters
@@ -27,8 +38,11 @@ def generate_safe_filename(vid, title):
     safe_filename = f"{vid}_{safe_title}"
     return safe_filename
 
-for item in read_videos_yml()[:1]:
-    front_matter = "---\n" + yaml.dump(item, default_flow_style=False) + "params:\n  showHero: false\n---\n"
+for item in read_videos_yml():
+    item["description"] = convert_md_to_text(item["description"])
+    if not isinstance(item.get("tags", []), list):
+        item["tags"] = [item["tags"]] if item["tags"] else []
+    front_matter = "---\n" + yaml.dump(item, default_flow_style=False) + "---\n"
     html = f"""
 <iframe width="630" height="472"
 src="https://www.youtube.com/embed/{item['vid']}">
@@ -36,7 +50,7 @@ src="https://www.youtube.com/embed/{item['vid']}">
 <br/>
 <p>{item['description']}</p>"""
     filename = generate_safe_filename(item['vid'], item['title'])
-    directory = os.path.join("output", filename)
+    directory = os.path.join("content/videos", filename)
     os.makedirs(directory, exist_ok=True)
     file_path = os.path.join(directory, "index.html")
     with open(file_path, "w") as file:

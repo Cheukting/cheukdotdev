@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Cheuk.dev"
+title = "cheuk.dev"
 
 [params]
   displayName = "EN"
@@ -11,7 +11,7 @@ title = "Cheuk.dev"
   dateFormat = "2 January 2006"
 #  logo = "img/commission_main.jpeg"
 #  secondaryLogo = "img/secondary-logo.png"
-  description = "Building the Open-source Community"
+  description = "All things about Cheuk"
 #  copyright = "Copy, _right?_ :thinking_face:"
 
  [params.author]
@@ -19,7 +19,7 @@ title = "Cheuk.dev"
    email = "me@cheuk.dev"
    image = "img/commission_main.jpeg"
    imageQuality = 96
-   headline = "Building the Open-source Community"
+#   headline = "Building the Open-source Community"
    bio = "Cheuk constantly contributes to the open-source community by giving workshops and organize events to encourage diversity contributions."
    links = [
 #     { email = "mailto:hello@your_domain.com" },

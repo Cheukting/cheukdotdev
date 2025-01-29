@@ -16,7 +16,7 @@ title = "cheuk.dev"
 
  [params.author]
    name = "Cheuk Ting Ho"
-   email = "me@cheuk.dev"
+#   email = ""
    image = "img/commission_main.jpeg"
    imageQuality = 96
 #   headline = "Building the Open-source Community"

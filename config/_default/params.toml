@@ -134,8 +134,8 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   # measurementId = "XXXXXX"
 
 [fathomAnalytics]
-  # site = "ABC12345"
-  # domain = "llama.yoursite.com"
+  site = "HNKQJJRG"
+  domain = "cheuk.dev"
 
 [umamiAnalytics]
   # websiteid = "ABC12345"

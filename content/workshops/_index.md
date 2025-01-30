@@ -5,7 +5,7 @@ groupByYear: false
 cascade:
   showReadingTime: false
   showWordCount: false
-#  showHero: false
+  showZenMode: false
   showDate: false
 ---
-Self learnign workshops on [{{< icon "github" >}}GitHub](https://github.com/Cheukting) created by me. Consider [donating](https://github.com/sponsors/Cheukting) if you love the content.
+Self learning workshops on [{{< icon "github" >}}GitHub](https://github.com/Cheukting) created by me. Consider [buying me a coffee {{< icon "mug-hot" >}}](https://github.com/sponsors/Cheukting) if you love the content.

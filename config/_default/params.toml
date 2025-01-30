@@ -14,7 +14,7 @@ enableCodeCopy = true
 
 replyByEmail = false
 
- mainSections = ["posts", "videos", "workshops"]
+mainSections = ["posts", "videos", "workshops"]
 # robots = ""
 
 disableImageOptimization = false
@@ -45,7 +45,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   layout = "background" # valid options: page, profile, hero, card, background, custom
 #  homepageImage = "img/sakura_bg.svg" # used in: hero, and card
   showRecent = true
-  showRecentItems = 6
+  showRecentItems = 9
   showMoreLink = false
   showMoreLinkDest = "/posts/"
   cardView = true
@@ -77,7 +77,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showTableOfContents = false
   showRelatedContent = false
   # relatedContentLimit = 3
-  showTaxonomies = false
+  showTaxonomies = true
   showAuthorsBadges = false
   showWordCount = true
   sharingLinks = [ "linkedin", "twitter", "bluesky", "reddit", "whatsapp", "telegram", "pinterest", "facebook", "email"]
@@ -96,7 +96,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showCards = false
   orderByWeight = false
   groupByYear = true
-  cardView = false
+  cardView = true
   cardViewScreenWidth = false
   constrainItemsWidth = false
 

@@ -69,7 +69,7 @@ for item in read_workshops_yml():
     end_text = f"""
 {item["description"]}
 ---
-Consider [donating](https://github.com/sponsors/Cheukting) if you love the content.
+Consider [buying me a coffee {{{{< icon "mug-hot" >}}}}](https://github.com/sponsors/Cheukting) if you love the content.
 """
     filename = generate_safe_filename(item['title'])
     directory = os.path.join("content/workshops", filename)

@@ -61,4 +61,14 @@ def rename_index_files(directory="content/posts"):
                 os.rename(old_file_path, new_file_path)
 
 # Rename '_index.md' files to '_index.md'
-rename_index_files()
+# rename_index_files()
+
+def generate_safe_filename(title):
+    """
+    Generate a URL-safe filename using vid and title.
+    """
+    safe_title = re.sub(r'[^\w\s-]', '', title).strip().replace(' ', '_')
+    safe_title = safe_title.lower()
+    return safe_title
+
+print(generate_safe_filename("Migrate my website contents from Jekyll to Hugo with good prompts"))

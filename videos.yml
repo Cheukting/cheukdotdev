@@ -865,16 +865,6 @@
   date: 2020-10-11
   author: Cheuk Ting Ho
 
-- title: PyData Hamburg September 2020
-  vid: FY9aqax1wNs
-  tags:
-    - PyData
-    - Meetup
-  description: |
-    On September 22nd 2020 the PyData Hamburg meetup featured two international guest speakers sharing insights on how to keep data pipelines under control. The meetup was hosted by Yuming Pan, Camila Kuhn & Christian Staudt.
-  date: 2020-09-29
-  author: Cheuk Ting Ho, Lais Carvalho
-
 - title: Python Zero to Hero - Ep.24 - Python environment management tools
   vid: mKpuhhPKDmo
   tags: Python Zero to Hero

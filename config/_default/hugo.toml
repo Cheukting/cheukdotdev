@@ -16,7 +16,7 @@ buildFuture = true
 
 enableEmoji = true
 
-timeout = 120
+timeout = 240
 
 # googleAnalytics = "G-XXXXXXXXX"
 

@@ -68,4 +68,4 @@ If you have any special needs or have any questions about accessibility faciliti
 
 As an international visitor visiting the US myself, I understand that there is a lot of information out there at this “interesting” time that may discourage traveling to the US. After all, it is a personal decision whether or not you feel safe to visit another country. PyCon US has also implemented [special refund policies and information](https://us.pycon.org/2025/attend/international-travel/) for international travelers.
 
-My decision? I will be attending PyCon US this year. I also know a lot of my friends from outside of the US will be going too. In this sensitive time we have to take care of each other and stay in touch while traveling. If you need special assistance, please contact the PyCon US team (pycon-staff@python.org).
+My decision? I will be attending PyCon US this year. I also know a lot of my friends from outside of the US will be going too. In this sensitive time we have to take care of each other and stay in touch while traveling. If you need special assistance, please contact the PyCon US team (pycon-reg@python.org).

@@ -4,7 +4,7 @@ import os
 import requests
 
 def read_videos_yml():
-    with open("videos.yml", "r") as file:
+    with open("_videos.yml", "r") as file:
         return yaml.safe_load(file)
 
 def convert_md_to_text(md_text):
@@ -50,7 +50,7 @@ src="https://www.youtube.com/embed/{item['vid']}">
 <br/>
 <p>{item['description']}</p>"""
     filename = generate_safe_filename(item['vid'], item['title'])
-    directory = os.path.join("content/videos", filename)
+    directory = os.path.join("content/_videos", filename)
     os.makedirs(directory, exist_ok=True)
     file_path = os.path.join(directory, "index.html")
     with open(file_path, "w") as file:

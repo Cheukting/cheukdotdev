@@ -6,3 +6,8 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+/inspectionProfiles/Project_Default.xml
+/cheukdotdev.iml
+/misc.xml
+/modules.xml
+/vcs.xml

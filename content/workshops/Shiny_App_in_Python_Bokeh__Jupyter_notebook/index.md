@@ -3,6 +3,9 @@ date: 2019-04-01
 description: ''
 link: https://github.com/jupytercon/2020-Cheukting
 title: Shiny App in Python? Bokeh + Jupyter notebook
+tags:
+  - Bokeh
+  - Jupyter
 ---
 
 {{< github repo="jupytercon/2020-Cheukting" >}}

@@ -3,6 +3,9 @@ date: 2025-02-26
 description: ''
 link: https://github.com/Cheukting/pyO3_202
 title: Support Python Async and Multithreading in PyO3
+tags:
+  - PyO3
+  - Rust
 ---
 
 {{< github repo="Cheukting/pyO3_202" >}}

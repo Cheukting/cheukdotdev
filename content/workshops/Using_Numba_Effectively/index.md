@@ -3,6 +3,8 @@ date: 2019-07-01
 description: ''
 link: https://github.com/Cheukting/using-numba
 title: Using Numba Effectively
+tags:
+  - Numba
 ---
 
 {{< github repo="Cheukting/using-numba" >}}

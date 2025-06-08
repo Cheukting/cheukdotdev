@@ -3,6 +3,9 @@ date: 2019-03-01
 description: ''
 link: https://github.com/Cheukting/rasa_workshop
 title: Chatbots that know if you are angry
+tags:
+  - Chatbot
+  - NLP
 ---
 
 {{< github repo="Cheukting/rasa_workshop" >}}

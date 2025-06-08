@@ -3,6 +3,8 @@ date: 2019-08-01
 description: ''
 link: https://github.com/Cheukting/pyscript-tutorial
 title: PyScript Tutorial
+tags:
+  - PyScript
 ---
 
 {{< github repo="Cheukting/pyscript-tutorial" >}}

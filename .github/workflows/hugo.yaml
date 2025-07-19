@@ -62,9 +62,10 @@ jobs:
             ${{ runner.temp }}/hugo_cache
           key: ${{ steps.cache-restore.outputs.cache-primary-key }}
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-artifact@v3
         with:
           path: ./public
+          name: PublicWebsite
 
   # Deployment job
   deploy:
@@ -72,12 +73,16 @@ jobs:
     needs: build
     steps:
       - name: Install Netlify
-        run: npm install netlify-cli@17.10.1 -g
+        run: |
+          npm install netlify-cli@17.10.1 -g
+      - name: Get artifact
+        uses: actions/download-artifact@v3
+        with:
+            path: ./public
+            name: PublicWebsite
       - name: Deploy to Netlify
         id: netlify_deploy
         run: |
-          pwd
-          ls -a /
           netlify deploy \
             --dir ./public \
             --site ${{ secrets.NETLIFY_SITE_ID }} \

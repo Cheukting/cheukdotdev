@@ -52,7 +52,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "/" \
+            --baseURL "https://cheuk.dev/" \
             --cacheDir "${{ runner.temp }}/hugo_cache"
       - name: Cache Save
         id: cache-save
@@ -76,7 +76,8 @@ jobs:
       - name: Deploy to Netlify
         id: netlify_deploy
         run: |
-          ls -a
+          pwd
+          ls -a /
           netlify deploy \
             --dir ./public \
             --site ${{ secrets.NETLIFY_SITE_ID }} \

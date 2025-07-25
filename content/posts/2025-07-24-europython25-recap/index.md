@@ -12,7 +12,7 @@ tags:
 
 ---
 
-“EruoPython is like a big family reunion every year\!” This is what I said to one of the new attendees on the first day of EuroPython 2025\. If you have been to EuroPython in recent years, I am sure you will agree with me. And this family is growing bigger and bigger every year.
+“EuroPython is like a big family reunion every year\!” This is what I said to one of the new attendees on the first day of EuroPython 2025\. If you have been to EuroPython in recent years, I am sure you will agree with me. And this family is growing bigger and bigger every year.
 
 What makes EuroPython special is that it is driven mainly by the community. It is welcoming, and we embrace who we are by being our true selves in this community. It is easy to say that, but to strengthen my point, I would like to give you a couple of examples that happened this year.
 

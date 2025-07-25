@@ -3,7 +3,7 @@ layout: posts
 title: "The PSF board election: what do I need to know?"
 date: 2025-06-28
 description: "As the PSF board election approaches, I am sure many of you are keen to get involved. It is a special chance for those of us who have been in the community for a while, and who love it, to help it be better. However, do you know what the Python Software Foundation, and particularly the PSF board members do? Have you ever wondered whether you should run for the board?"
-image: /assets/images/feature.jpg
+image: /assets/images/feature.png
 author: Cheuk Ting Ho
 tags:
   - Community

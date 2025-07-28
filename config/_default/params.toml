@@ -135,7 +135,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [fathomAnalytics]
   site = "HNKQJJRG"
-  domain = "cheuk.dev"
+  domain = "cdn.usefathom.com"
 
 [umamiAnalytics]
   # websiteid = "ABC12345"
